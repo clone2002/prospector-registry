@@ -1,7 +1,7 @@
 {
  "_meta": {
   "schema_version": 3,
-  "registry_version": 4,
+  "registry_version": 5,
   "published_at": "2026-09-11",
   "description": "Prospector's shared ATS registry: companies, their job boards, and industry tags. Company facts only. See README.",
   "attribution": [
@@ -361,7 +361,6 @@
    },
    "tier": 1,
    "notes": "Custom careers system, no public ATS API; covered via aggregators (jsearch/adzuna)",
-   "hq_source": "sec",
    "boards": [],
    "ashby": null,
    "greenhouse": null,
@@ -398,7 +397,6 @@
    },
    "tier": 1,
    "notes": null,
-   "hq_source": "sec",
    "boards": [],
    "ashby": null,
    "greenhouse": null,
@@ -435,7 +433,6 @@
    },
    "tier": 1,
    "notes": null,
-   "hq_source": "sec",
    "boards": [],
    "ashby": null,
    "greenhouse": null,
@@ -472,7 +469,6 @@
    },
    "tier": 1,
    "notes": null,
-   "hq_source": "sec",
    "boards": [],
    "ashby": null,
    "greenhouse": null,
@@ -509,7 +505,6 @@
    },
    "tier": 1,
    "notes": null,
-   "hq_source": "sec",
    "boards": [],
    "ashby": null,
    "greenhouse": null,
@@ -546,8 +541,6 @@
    },
    "tier": 1,
    "notes": null,
-   "website_source": null,
-   "hq_source": "sec",
    "boards": [
     {
      "ats": "workday",
@@ -602,7 +595,6 @@
    },
    "tier": 1,
    "notes": null,
-   "hq_source": "sec",
    "boards": [
     {
      "ats": "workday",
@@ -657,7 +649,6 @@
    },
    "tier": 1,
    "notes": null,
-   "hq_source": "sec",
    "boards": [],
    "ashby": null,
    "greenhouse": null,
@@ -694,8 +685,6 @@
    },
    "tier": 1,
    "notes": null,
-   "website_source": "linked",
-   "hq_source": "sec",
    "boards": [
     {
      "ats": "ashby",
@@ -748,8 +737,6 @@
    },
    "tier": 1,
    "notes": null,
-   "website_source": "pdl",
-   "hq_source": "pdl",
    "boards": [
     {
      "ats": "greenhouse",
@@ -802,8 +789,6 @@
    },
    "tier": 1,
    "notes": null,
-   "website_source": "pdl",
-   "hq_source": "pdl",
    "boards": [
     {
      "ats": "greenhouse",
@@ -858,8 +843,6 @@
    },
    "tier": 1,
    "notes": null,
-   "website_source": "linked",
-   "hq_source": "sec",
    "boards": [
     {
      "ats": "lever",
@@ -914,7 +897,6 @@
    },
    "tier": 1,
    "notes": null,
-   "hq_source": "sec",
    "boards": [
     {
      "ats": "greenhouse",
@@ -993,8 +975,6 @@
    },
    "tier": 1,
    "notes": null,
-   "website_source": "linked",
-   "hq_source": "sec",
    "boards": [
     {
      "ats": "greenhouse",
@@ -1049,8 +1029,6 @@
    },
    "tier": 1,
    "notes": null,
-   "website_source": "linked",
-   "hq_source": "sec",
    "boards": [
     {
      "ats": "greenhouse",
@@ -1105,8 +1083,6 @@
    },
    "tier": 1,
    "notes": null,
-   "website_source": "linked",
-   "hq_source": "sec",
    "boards": [
     {
      "ats": "greenhouse",
@@ -1161,8 +1137,6 @@
    },
    "tier": 1,
    "notes": null,
-   "website_source": "linked",
-   "hq_source": "sec",
    "boards": [
     {
      "ats": "greenhouse",
@@ -1217,8 +1191,6 @@
    },
    "tier": 1,
    "notes": null,
-   "website_source": "linked",
-   "hq_source": "sec",
    "boards": [
     {
      "ats": "greenhouse",
@@ -1273,8 +1245,6 @@
    },
    "tier": 1,
    "notes": null,
-   "website_source": "linked",
-   "hq_source": "sec",
    "boards": [
     {
      "ats": "greenhouse",
@@ -1359,8 +1329,6 @@
    },
    "tier": 1,
    "notes": null,
-   "website_source": "linked",
-   "hq_source": "sec",
    "boards": [
     {
      "ats": "lever",
@@ -1415,7 +1383,6 @@
    },
    "tier": 1,
    "notes": null,
-   "hq_source": "sec",
    "boards": [],
    "ashby": null,
    "greenhouse": null,
@@ -1452,8 +1419,6 @@
    },
    "tier": 1,
    "notes": null,
-   "website_source": "linked",
-   "hq_source": "sec",
    "boards": [
     {
      "ats": "greenhouse",
@@ -1508,7 +1473,6 @@
    },
    "tier": 1,
    "notes": null,
-   "hq_source": "sec",
    "boards": [],
    "ashby": null,
    "greenhouse": null,
@@ -1545,7 +1509,6 @@
    },
    "tier": 1,
    "notes": "Moved off Lever (board live but empty, Aug 2026); custom careers site, no public ATS API; aggregator-covered",
-   "hq_source": "sec",
    "boards": [],
    "ashby": null,
    "greenhouse": null,
@@ -1582,8 +1545,6 @@
    },
    "tier": 1,
    "notes": null,
-   "website_source": "linked",
-   "hq_source": "sec",
    "boards": [
     {
      "ats": "greenhouse",
@@ -1636,8 +1597,6 @@
    },
    "tier": 1,
    "notes": null,
-   "website_source": "pdl",
-   "hq_source": "pdl",
    "boards": [
     {
      "ats": "ashby",
@@ -1692,8 +1651,6 @@
    },
    "tier": 1,
    "notes": null,
-   "website_source": "linked",
-   "hq_source": "sec",
    "boards": [
     {
      "ats": "greenhouse",
@@ -1776,8 +1733,6 @@
    },
    "tier": 1,
    "notes": null,
-   "website_source": "pdl",
-   "hq_source": "pdl",
    "boards": [
     {
      "ats": "ashby",
@@ -1843,8 +1798,6 @@
    },
    "tier": 1,
    "notes": "ashby board 'amplitude' dead (404, verified 2026-09-02); greenhouse 'amplitude' alive (36 jobs same check) - greenhouse only",
-   "website_source": "linked",
-   "hq_source": "sec",
    "boards": [
     {
      "ats": "greenhouse",
@@ -1907,8 +1860,6 @@
    },
    "tier": 1,
    "notes": null,
-   "website_source": "pdl",
-   "hq_source": "pdl",
    "boards": [
     {
      "ats": "greenhouse",
@@ -1991,8 +1942,6 @@
    },
    "tier": 1,
    "notes": null,
-   "website_source": "pdl",
-   "hq_source": "pdl",
    "boards": [
     {
      "ats": "greenhouse",
@@ -2045,8 +1994,6 @@
    },
    "tier": 1,
    "notes": null,
-   "website_source": "pdl",
-   "hq_source": "pdl",
    "boards": [
     {
      "ats": "greenhouse",
@@ -2129,8 +2076,6 @@
    },
    "tier": 1,
    "notes": "greenhouse slug learned from manually added job URL",
-   "website_source": "pdl",
-   "hq_source": "pdl",
    "boards": [
     {
      "ats": "greenhouse",
@@ -2183,8 +2128,6 @@
    },
    "tier": 1,
    "notes": null,
-   "website_source": "pdl",
-   "hq_source": "pdl",
    "boards": [
     {
      "ats": "greenhouse",
@@ -2239,8 +2182,6 @@
    },
    "tier": 1,
    "notes": null,
-   "website_source": "linked",
-   "hq_source": "sec",
    "boards": [
     {
      "ats": "greenhouse",
@@ -2295,7 +2236,6 @@
    },
    "tier": 1,
    "notes": null,
-   "hq_source": "sec",
    "boards": [],
    "ashby": null,
    "greenhouse": null,
@@ -2332,7 +2272,6 @@
    },
    "tier": 1,
    "notes": null,
-   "hq_source": "sec",
    "boards": [],
    "ashby": null,
    "greenhouse": null,
@@ -2369,7 +2308,6 @@
    },
    "tier": 1,
    "notes": null,
-   "hq_source": "sec",
    "boards": [],
    "ashby": null,
    "greenhouse": null,
@@ -2406,8 +2344,6 @@
    },
    "tier": 1,
    "notes": null,
-   "website_source": "linked",
-   "hq_source": "sec",
    "boards": [
     {
      "ats": "greenhouse",
@@ -2462,8 +2398,6 @@
    },
    "tier": 1,
    "notes": null,
-   "website_source": "linked",
-   "hq_source": "sec",
    "boards": [
     {
      "ats": "greenhouse",
@@ -2516,8 +2450,6 @@
    },
    "tier": 1,
    "notes": null,
-   "website_source": "pdl",
-   "hq_source": "pdl",
    "boards": [
     {
      "ats": "ashby",
@@ -2587,8 +2519,6 @@
    },
    "tier": 1,
    "notes": null,
-   "website_source": "pdl",
-   "hq_source": "pdl",
    "boards": [
     {
      "ats": "greenhouse",
@@ -2641,8 +2571,6 @@
    },
    "tier": 1,
    "notes": null,
-   "website_source": "pdl",
-   "hq_source": "pdl",
    "boards": [
     {
      "ats": "ashby",
@@ -2785,8 +2713,6 @@
    },
    "tier": 1,
    "notes": null,
-   "website_source": "pdl",
-   "hq_source": "pdl",
    "boards": [
     {
      "ats": "ashby",
@@ -2852,7 +2778,6 @@
    },
    "tier": 1,
    "notes": null,
-   "hq_source": "sec",
    "boards": [],
    "ashby": null,
    "greenhouse": null,
@@ -2889,8 +2814,6 @@
    },
    "tier": 1,
    "notes": null,
-   "website_source": "linked",
-   "hq_source": "sec",
    "boards": [
     {
      "ats": "greenhouse",
@@ -2945,7 +2868,6 @@
    },
    "tier": 1,
    "notes": null,
-   "hq_source": "sec",
    "boards": [
     {
      "ats": "greenhouse",
@@ -3238,8 +3160,6 @@
    },
    "tier": 1,
    "notes": null,
-   "website_source": "pdl",
-   "hq_source": "pdl",
    "boards": [
     {
      "ats": "lever",
@@ -3294,8 +3214,6 @@
    },
    "tier": 1,
    "notes": null,
-   "website_source": "linked",
-   "hq_source": "sec",
    "boards": [
     {
      "ats": "greenhouse",
@@ -3348,8 +3266,6 @@
    },
    "tier": 1,
    "notes": null,
-   "website_source": "pdl",
-   "hq_source": "pdl",
    "boards": [
     {
      "ats": "greenhouse",
@@ -3402,8 +3318,6 @@
    },
    "tier": 1,
    "notes": null,
-   "website_source": "pdl",
-   "hq_source": "pdl",
    "boards": [
     {
      "ats": "ashby",
@@ -3456,8 +3370,6 @@
    },
    "tier": 1,
    "notes": null,
-   "website_source": "pdl",
-   "hq_source": "pdl",
    "boards": [
     {
      "ats": "greenhouse",
@@ -3720,8 +3632,6 @@
    },
    "tier": 1,
    "notes": "Custom careers system, no public ATS API; covered via aggregators (jsearch/adzuna)",
-   "website_source": "pdl",
-   "hq_source": "pdl",
    "boards": [
     {
      "ats": "greenhouse",
@@ -3791,8 +3701,6 @@
    },
    "tier": 1,
    "notes": null,
-   "website_source": "pdl",
-   "hq_source": "pdl",
    "boards": [
     {
      "ats": "workday",
@@ -3845,8 +3753,6 @@
    },
    "tier": 1,
    "notes": null,
-   "website_source": "pdl",
-   "hq_source": "pdl",
    "boards": [
     {
      "ats": "ashby",
@@ -3931,8 +3837,6 @@
    },
    "tier": 1,
    "notes": null,
-   "website_source": "linked",
-   "hq_source": "sec",
    "boards": [
     {
      "ats": "greenhouse",
@@ -3985,8 +3889,6 @@
    },
    "tier": 1,
    "notes": null,
-   "website_source": "pdl",
-   "hq_source": "pdl",
    "boards": [
     {
      "ats": "greenhouse",
@@ -4039,8 +3941,6 @@
    },
    "tier": 1,
    "notes": null,
-   "website_source": "pdl",
-   "hq_source": "pdl",
    "boards": [
     {
      "ats": "ashby",
@@ -4104,8 +4004,6 @@
    },
    "tier": 1,
    "notes": null,
-   "website_source": "pdl",
-   "hq_source": "pdl",
    "boards": [
     {
      "ats": "greenhouse",
@@ -4260,8 +4158,6 @@
    },
    "tier": 1,
    "notes": null,
-   "website_source": "pdl",
-   "hq_source": "pdl",
    "boards": [
     {
      "ats": "greenhouse",
@@ -4314,8 +4210,6 @@
    },
    "tier": 1,
    "notes": null,
-   "website_source": "pdl",
-   "hq_source": "pdl",
    "boards": [
     {
      "ats": "greenhouse",
@@ -4488,7 +4382,6 @@
    },
    "tier": 1,
    "notes": null,
-   "hq_source": "pdl",
    "boards": [
     {
      "ats": "workday",
@@ -4543,7 +4436,6 @@
    },
    "tier": 1,
    "notes": null,
-   "hq_source": "sec",
    "boards": [],
    "ashby": null,
    "greenhouse": null,
@@ -4610,8 +4502,6 @@
    },
    "tier": 1,
    "notes": null,
-   "website_source": "pdl",
-   "hq_source": "pdl",
    "boards": [
     {
      "ats": "greenhouse",
@@ -4666,8 +4556,6 @@
    },
    "tier": 1,
    "notes": null,
-   "website_source": "linked",
-   "hq_source": "sec",
    "boards": [
     {
      "ats": "greenhouse",
@@ -4722,7 +4610,6 @@
    },
    "tier": 1,
    "notes": null,
-   "hq_source": "sec",
    "boards": [],
    "ashby": null,
    "greenhouse": null,
@@ -4759,7 +4646,6 @@
    },
    "tier": 1,
    "notes": "Ashby+Greenhouse APIs dead 2026-08-31; jobs now on own site (UUID pages); careers_url set for generic scrape, else aggregator-covered (gh 'mqreferrals' is referrals-only)",
-   "hq_source": "sec",
    "boards": [
     {
      "ats": "greenhouse",
@@ -4805,8 +4691,6 @@
    },
    "tier": 1,
    "notes": null,
-   "website_source": "pdl",
-   "hq_source": "pdl",
    "boards": [
     {
      "ats": "greenhouse",
@@ -4855,7 +4739,6 @@
    "hq": null,
    "tier": 1,
    "notes": null,
-   "website_source": "linked",
    "boards": [
     {
      "ats": "ashby",
@@ -4919,8 +4802,6 @@
    },
    "tier": 1,
    "notes": null,
-   "website_source": "pdl",
-   "hq_source": "pdl",
    "boards": [
     {
      "ats": "greenhouse",
@@ -4975,8 +4856,6 @@
    },
    "tier": 1,
    "notes": null,
-   "website_source": "linked",
-   "hq_source": "sec",
    "boards": [
     {
      "ats": "greenhouse",
@@ -5029,8 +4908,6 @@
    },
    "tier": 1,
    "notes": null,
-   "website_source": "pdl",
-   "hq_source": "pdl",
    "boards": [
     {
      "ats": "greenhouse",
@@ -5085,8 +4962,6 @@
    },
    "tier": 1,
    "notes": null,
-   "website_source": "linked",
-   "hq_source": "sec",
    "boards": [
     {
      "ats": "greenhouse",
@@ -5171,7 +5046,6 @@
    },
    "tier": 1,
    "notes": null,
-   "hq_source": "sec",
    "boards": [
     {
      "ats": "greenhouse",
@@ -5224,8 +5098,6 @@
    },
    "tier": 1,
    "notes": null,
-   "website_source": "pdl",
-   "hq_source": "pdl",
    "boards": [
     {
      "ats": "greenhouse",
@@ -5278,8 +5150,6 @@
    },
    "tier": 1,
    "notes": null,
-   "website_source": "pdl",
-   "hq_source": "pdl",
    "boards": [
     {
      "ats": "ashby",
@@ -5328,7 +5198,6 @@
    "hq": null,
    "tier": 1,
    "notes": null,
-   "website_source": "linked",
    "boards": [
     {
      "ats": "greenhouse",
@@ -5381,8 +5250,6 @@
    },
    "tier": 1,
    "notes": null,
-   "website_source": "pdl",
-   "hq_source": "pdl",
    "boards": [
     {
      "ats": "lever",
@@ -5437,8 +5304,6 @@
    },
    "tier": 1,
    "notes": null,
-   "website_source": "linked",
-   "hq_source": "sec",
    "boards": [
     {
      "ats": "greenhouse",
@@ -5493,7 +5358,6 @@
    },
    "tier": 1,
    "notes": null,
-   "hq_source": "sec",
    "boards": [
     {
      "ats": "ashby",
@@ -5578,7 +5442,6 @@
    },
    "tier": 1,
    "notes": null,
-   "hq_source": "sec",
    "boards": [],
    "ashby": null,
    "greenhouse": null,
@@ -5615,7 +5478,6 @@
    },
    "tier": 1,
    "notes": null,
-   "hq_source": "sec",
    "boards": [],
    "ashby": null,
    "greenhouse": null,
@@ -5652,7 +5514,6 @@
    },
    "tier": 1,
    "notes": null,
-   "hq_source": "sec",
    "boards": [],
    "ashby": null,
    "greenhouse": null,
@@ -5689,7 +5550,6 @@
    },
    "tier": 1,
    "notes": null,
-   "hq_source": "sec",
    "boards": [],
    "ashby": null,
    "greenhouse": null,
@@ -5726,7 +5586,6 @@
    },
    "tier": 1,
    "notes": null,
-   "hq_source": "sec",
    "boards": [],
    "ashby": null,
    "greenhouse": null,
@@ -5763,7 +5622,6 @@
    },
    "tier": 1,
    "notes": null,
-   "hq_source": "sec",
    "boards": [],
    "ashby": null,
    "greenhouse": null,
@@ -5800,7 +5658,6 @@
    },
    "tier": 1,
    "notes": null,
-   "hq_source": "sec",
    "boards": [],
    "ashby": null,
    "greenhouse": null,
@@ -5837,7 +5694,6 @@
    },
    "tier": 1,
    "notes": null,
-   "hq_source": "sec",
    "boards": [],
    "ashby": null,
    "greenhouse": null,
@@ -5874,7 +5730,6 @@
    },
    "tier": 1,
    "notes": null,
-   "hq_source": "sec",
    "boards": [],
    "ashby": null,
    "greenhouse": null,
@@ -5911,7 +5766,6 @@
    },
    "tier": 1,
    "notes": null,
-   "hq_source": "sec",
    "boards": [],
    "ashby": null,
    "greenhouse": null,
@@ -5946,7 +5800,6 @@
    },
    "tier": 1,
    "notes": null,
-   "website_source": null,
    "boards": [],
    "ashby": null,
    "greenhouse": null,
@@ -5983,7 +5836,6 @@
    },
    "tier": 1,
    "notes": null,
-   "hq_source": "sec",
    "boards": [],
    "ashby": null,
    "greenhouse": null,
@@ -6050,7 +5902,6 @@
    },
    "tier": 1,
    "notes": null,
-   "hq_source": "sec",
    "boards": [],
    "ashby": null,
    "greenhouse": null,
@@ -6087,7 +5938,6 @@
    },
    "tier": 1,
    "notes": null,
-   "hq_source": "sec",
    "boards": [],
    "ashby": null,
    "greenhouse": null,
@@ -6154,7 +6004,6 @@
    },
    "tier": 1,
    "notes": null,
-   "hq_source": "sec",
    "boards": [],
    "ashby": null,
    "greenhouse": null,
@@ -6191,7 +6040,6 @@
    },
    "tier": 1,
    "notes": null,
-   "hq_source": "sec",
    "boards": [],
    "ashby": null,
    "greenhouse": null,
@@ -6228,7 +6076,6 @@
    },
    "tier": 1,
    "notes": null,
-   "hq_source": "sec",
    "boards": [],
    "ashby": null,
    "greenhouse": null,
@@ -6455,8 +6302,6 @@
    },
    "tier": 1,
    "notes": null,
-   "website_source": "pdl",
-   "hq_source": "pdl",
    "boards": [
     {
      "ats": "lever",
@@ -6571,7 +6416,6 @@
    },
    "tier": 1,
    "notes": null,
-   "hq_source": "sec",
    "boards": [],
    "ashby": null,
    "greenhouse": null,
@@ -6968,7 +6812,6 @@
    },
    "tier": 1,
    "notes": null,
-   "hq_source": "sec",
    "boards": [],
    "ashby": null,
    "greenhouse": null,
@@ -7035,7 +6878,6 @@
    },
    "tier": 1,
    "notes": null,
-   "hq_source": "sec",
    "boards": [],
    "ashby": null,
    "greenhouse": null,
@@ -7072,7 +6914,6 @@
    },
    "tier": 1,
    "notes": null,
-   "hq_source": "sec",
    "boards": [],
    "ashby": null,
    "greenhouse": null,
@@ -7109,7 +6950,6 @@
    },
    "tier": 1,
    "notes": null,
-   "hq_source": "sec",
    "boards": [],
    "ashby": null,
    "greenhouse": null,
@@ -7176,7 +7016,6 @@
    },
    "tier": 1,
    "notes": null,
-   "hq_source": "sec",
    "boards": [],
    "ashby": null,
    "greenhouse": null,
@@ -7213,7 +7052,6 @@
    },
    "tier": 1,
    "notes": null,
-   "hq_source": "sec",
    "boards": [],
    "ashby": null,
    "greenhouse": null,
@@ -7250,7 +7088,6 @@
    },
    "tier": 1,
    "notes": null,
-   "hq_source": "sec",
    "boards": [],
    "ashby": null,
    "greenhouse": null,
@@ -7287,7 +7124,6 @@
    },
    "tier": 1,
    "notes": null,
-   "hq_source": "sec",
    "boards": [],
    "ashby": null,
    "greenhouse": null,
@@ -7324,7 +7160,6 @@
    },
    "tier": 1,
    "notes": null,
-   "hq_source": "sec",
    "boards": [],
    "ashby": null,
    "greenhouse": null,
@@ -7361,7 +7196,6 @@
    },
    "tier": 1,
    "notes": null,
-   "hq_source": "sec",
    "boards": [],
    "ashby": null,
    "greenhouse": null,
@@ -7428,7 +7262,6 @@
    },
    "tier": 1,
    "notes": null,
-   "hq_source": "sec",
    "boards": [],
    "ashby": null,
    "greenhouse": null,
@@ -7465,7 +7298,6 @@
    },
    "tier": 1,
    "notes": null,
-   "hq_source": "sec",
    "boards": [],
    "ashby": null,
    "greenhouse": null,
@@ -7502,7 +7334,6 @@
    },
    "tier": 1,
    "notes": null,
-   "hq_source": "sec",
    "boards": [],
    "ashby": null,
    "greenhouse": null,
@@ -7539,7 +7370,6 @@
    },
    "tier": 1,
    "notes": null,
-   "hq_source": "sec",
    "boards": [],
    "ashby": null,
    "greenhouse": null,
@@ -7666,7 +7496,6 @@
    },
    "tier": 1,
    "notes": null,
-   "hq_source": "sec",
    "boards": [],
    "ashby": null,
    "greenhouse": null,
@@ -7703,7 +7532,6 @@
    },
    "tier": 1,
    "notes": null,
-   "hq_source": "sec",
    "boards": [],
    "ashby": null,
    "greenhouse": null,
@@ -7740,7 +7568,6 @@
    },
    "tier": 1,
    "notes": null,
-   "hq_source": "sec",
    "boards": [],
    "ashby": null,
    "greenhouse": null,
@@ -7777,7 +7604,6 @@
    },
    "tier": 1,
    "notes": null,
-   "hq_source": "sec",
    "boards": [],
    "ashby": null,
    "greenhouse": null,
@@ -7814,7 +7640,6 @@
    },
    "tier": 1,
    "notes": null,
-   "hq_source": "sec",
    "boards": [],
    "ashby": null,
    "greenhouse": null,
@@ -7851,7 +7676,6 @@
    },
    "tier": 1,
    "notes": null,
-   "hq_source": "sec",
    "boards": [],
    "ashby": null,
    "greenhouse": null,
@@ -7948,7 +7772,6 @@
    },
    "tier": 1,
    "notes": null,
-   "hq_source": "sec",
    "boards": [],
    "ashby": null,
    "greenhouse": null,
@@ -7985,7 +7808,6 @@
    },
    "tier": 1,
    "notes": null,
-   "hq_source": "sec",
    "boards": [],
    "ashby": null,
    "greenhouse": null,
@@ -8022,7 +7844,6 @@
    },
    "tier": 1,
    "notes": null,
-   "hq_source": "sec",
    "boards": [],
    "ashby": null,
    "greenhouse": null,
@@ -8059,7 +7880,6 @@
    },
    "tier": 1,
    "notes": null,
-   "hq_source": "sec",
    "boards": [],
    "ashby": null,
    "greenhouse": null,
@@ -8096,7 +7916,6 @@
    },
    "tier": 1,
    "notes": null,
-   "hq_source": "sec",
    "boards": [],
    "ashby": null,
    "greenhouse": null,
@@ -8133,7 +7952,6 @@
    },
    "tier": 1,
    "notes": null,
-   "hq_source": "sec",
    "boards": [],
    "ashby": null,
    "greenhouse": null,
@@ -8230,7 +8048,6 @@
    },
    "tier": 1,
    "notes": null,
-   "hq_source": "sec",
    "boards": [],
    "ashby": null,
    "greenhouse": null,
@@ -8297,7 +8114,6 @@
    },
    "tier": 1,
    "notes": null,
-   "hq_source": "sec",
    "boards": [],
    "ashby": null,
    "greenhouse": null,
@@ -8332,8 +8148,6 @@
    },
    "tier": 1,
    "notes": null,
-   "website_source": "pdl",
-   "hq_source": "pdl",
    "boards": [
     {
      "ats": "greenhouse",
@@ -8405,7 +8219,6 @@
    },
    "tier": 1,
    "notes": null,
-   "hq_source": "sec",
    "boards": [],
    "ashby": null,
    "greenhouse": null,
@@ -8442,7 +8255,6 @@
    },
    "tier": 1,
    "notes": null,
-   "hq_source": "sec",
    "boards": [],
    "ashby": null,
    "greenhouse": null,
@@ -8479,7 +8291,6 @@
    },
    "tier": 1,
    "notes": null,
-   "hq_source": "sec",
    "boards": [],
    "ashby": null,
    "greenhouse": null,
@@ -8516,7 +8327,6 @@
    },
    "tier": 1,
    "notes": null,
-   "hq_source": "sec",
    "boards": [
     {
      "ats": "ashby",
@@ -8565,7 +8375,6 @@
    },
    "tier": 1,
    "notes": null,
-   "hq_source": "sec",
    "boards": [],
    "ashby": null,
    "greenhouse": null,
@@ -8690,8 +8499,6 @@
    },
    "tier": 1,
    "notes": null,
-   "website_source": "pdl",
-   "hq_source": "pdl",
    "boards": [
     {
      "ats": "ashby",
@@ -8746,8 +8553,6 @@
    },
    "tier": 1,
    "notes": null,
-   "website_source": "linked",
-   "hq_source": "sec",
    "boards": [
     {
      "ats": "ashby",
@@ -8813,8 +8618,6 @@
    },
    "tier": 1,
    "notes": null,
-   "website_source": "linked",
-   "hq_source": "sec",
    "boards": [
     {
      "ats": "greenhouse",
@@ -8869,7 +8672,6 @@
    },
    "tier": 1,
    "notes": null,
-   "hq_source": "sec",
    "boards": [],
    "ashby": null,
    "greenhouse": null,
@@ -8936,7 +8738,6 @@
    },
    "tier": 1,
    "notes": null,
-   "hq_source": "sec",
    "boards": [
     {
      "ats": "lever",
@@ -8991,8 +8792,6 @@
    },
    "tier": 1,
    "notes": null,
-   "website_source": "linked",
-   "hq_source": "sec",
    "boards": [
     {
      "ats": "greenhouse",
@@ -9047,8 +8846,6 @@
    },
    "tier": 1,
    "notes": null,
-   "website_source": "linked",
-   "hq_source": "sec",
    "boards": [
     {
      "ats": "greenhouse",
@@ -9103,7 +8900,6 @@
    },
    "tier": 1,
    "notes": null,
-   "hq_source": "sec",
    "boards": [],
    "ashby": null,
    "greenhouse": null,
@@ -9138,8 +8934,6 @@
    },
    "tier": 1,
    "notes": null,
-   "website_source": "pdl",
-   "hq_source": "pdl",
    "boards": [
     {
      "ats": "greenhouse",
@@ -9194,8 +8988,6 @@
    },
    "tier": 1,
    "notes": null,
-   "website_source": "pdl",
-   "hq_source": "pdl",
    "boards": [
     {
      "ats": "greenhouse",
@@ -9248,7 +9040,6 @@
    },
    "tier": 1,
    "notes": null,
-   "website_source": null,
    "boards": [],
    "ashby": null,
    "greenhouse": null,
@@ -9285,8 +9076,6 @@
    },
    "tier": 1,
    "notes": null,
-   "website_source": "linked",
-   "hq_source": "sec",
    "boards": [
     {
      "ats": "ashby",
@@ -9350,8 +9139,6 @@
    },
    "tier": 1,
    "notes": null,
-   "website_source": "pdl",
-   "hq_source": "pdl",
    "boards": [
     {
      "ats": "ashby",
@@ -9406,8 +9193,6 @@
    },
    "tier": 1,
    "notes": null,
-   "website_source": "linked",
-   "hq_source": "sec",
    "boards": [
     {
      "ats": "greenhouse",
@@ -9460,8 +9245,6 @@
    },
    "tier": 1,
    "notes": null,
-   "website_source": "pdl",
-   "hq_source": "pdl",
    "boards": [
     {
      "ats": "ashby",
@@ -9510,7 +9293,6 @@
    "hq": null,
    "tier": 1,
    "notes": null,
-   "website_source": "linked",
    "boards": [
     {
      "ats": "lever",
@@ -9565,8 +9347,6 @@
    },
    "tier": 1,
    "notes": null,
-   "website_source": "pdl",
-   "hq_source": "pdl",
    "boards": [
     {
      "ats": "greenhouse",
@@ -9621,8 +9401,6 @@
    },
    "tier": 1,
    "notes": null,
-   "website_source": "linked",
-   "hq_source": "sec",
    "boards": [
     {
      "ats": "greenhouse",
@@ -9677,7 +9455,6 @@
    },
    "tier": 1,
    "notes": null,
-   "hq_source": "sec",
    "boards": [],
    "ashby": null,
    "greenhouse": null,
@@ -9802,8 +9579,6 @@
    },
    "tier": 1,
    "notes": null,
-   "website_source": "pdl",
-   "hq_source": "pdl",
    "boards": [
     {
      "ats": "greenhouse",
@@ -9856,8 +9631,6 @@
    },
    "tier": 1,
    "notes": "jobvite account 'sitecore' (unsupported)",
-   "website_source": "pdl",
-   "hq_source": "pdl",
    "boards": [
     {
      "ats": "ashby",
@@ -9942,8 +9715,6 @@
    },
    "tier": 1,
    "notes": null,
-   "website_source": "linked",
-   "hq_source": "sec",
    "boards": [
     {
      "ats": "workday",
@@ -9998,7 +9769,6 @@
    },
    "tier": 1,
    "notes": "taleo account 'oracle' (unsupported)",
-   "hq_source": "sec",
    "boards": [],
    "ashby": null,
    "greenhouse": null,
@@ -10035,7 +9805,6 @@
    },
    "tier": 1,
    "notes": null,
-   "hq_source": "sec",
    "boards": [],
    "ashby": null,
    "greenhouse": null,
@@ -10072,7 +9841,6 @@
    },
    "tier": 1,
    "notes": null,
-   "hq_source": "sec",
    "boards": [],
    "ashby": null,
    "greenhouse": null,
@@ -10109,7 +9877,6 @@
    },
    "tier": 1,
    "notes": null,
-   "hq_source": "sec",
    "boards": [],
    "ashby": null,
    "greenhouse": null,
@@ -10146,7 +9913,6 @@
    },
    "tier": 1,
    "notes": "MIGRATED WORKDAY->ORACLE HCM (confirmed 2026-09-02 via live posting at enterpriseplatform.dell.com/hcmUI/CandidateExperience). Oracle Recruiting Cloud is not a supported scraper ATS - aggregator coverage only. An Oracle HCM scraper (public recruitingCEJobRequisitions REST API) is feasible if more watchlist companies land there; phase-3 candidate.",
-   "hq_source": "sec",
    "boards": [],
    "ashby": null,
    "greenhouse": null,
@@ -10183,7 +9949,6 @@
    },
    "tier": 1,
    "notes": null,
-   "hq_source": "sec",
    "boards": [],
    "ashby": null,
    "greenhouse": null,
@@ -10220,7 +9985,6 @@
    },
    "tier": 1,
    "notes": null,
-   "hq_source": "sec",
    "boards": [],
    "ashby": null,
    "greenhouse": null,
@@ -10257,7 +10021,6 @@
    },
    "tier": 1,
    "notes": null,
-   "hq_source": "sec",
    "boards": [
     {
      "ats": "workday",
@@ -10312,7 +10075,6 @@
    },
    "tier": 1,
    "notes": null,
-   "hq_source": "sec",
    "boards": [],
    "ashby": null,
    "greenhouse": null,
@@ -10349,7 +10111,6 @@
    },
    "tier": 1,
    "notes": null,
-   "hq_source": "sec",
    "boards": [],
    "ashby": null,
    "greenhouse": null,
@@ -10386,7 +10147,6 @@
    },
    "tier": 1,
    "notes": null,
-   "hq_source": "sec",
    "boards": [],
    "ashby": null,
    "greenhouse": null,
@@ -10423,7 +10183,6 @@
    },
    "tier": 1,
    "notes": null,
-   "hq_source": "sec",
    "boards": [],
    "ashby": null,
    "greenhouse": null,
@@ -10460,8 +10219,6 @@
    },
    "tier": 1,
    "notes": null,
-   "website_source": "linked",
-   "hq_source": "sec",
    "boards": [
     {
      "ats": "workday",
@@ -10516,7 +10273,6 @@
    },
    "tier": 1,
    "notes": null,
-   "hq_source": "sec",
    "boards": [],
    "ashby": null,
    "greenhouse": null,
@@ -10553,7 +10309,6 @@
    },
    "tier": 1,
    "notes": null,
-   "hq_source": "sec",
    "boards": [],
    "ashby": null,
    "greenhouse": null,
@@ -10620,8 +10375,6 @@
    },
    "tier": 1,
    "notes": null,
-   "website_source": "linked",
-   "hq_source": "sec",
    "boards": [
     {
      "ats": "greenhouse",
@@ -10674,8 +10427,6 @@
    },
    "tier": 1,
    "notes": null,
-   "website_source": "pdl",
-   "hq_source": "pdl",
    "boards": [
     {
      "ats": "ashby",
@@ -10730,8 +10481,6 @@
    },
    "tier": 1,
    "notes": null,
-   "website_source": "pdl",
-   "hq_source": "pdl",
    "boards": [
     {
      "ats": "ashby",
@@ -10816,7 +10565,6 @@
    },
    "tier": 1,
    "notes": null,
-   "hq_source": "sec",
    "boards": [],
    "ashby": null,
    "greenhouse": null,
@@ -10911,8 +10659,6 @@
    },
    "tier": 1,
    "notes": null,
-   "website_source": "pdl",
-   "hq_source": "pdl",
    "boards": [
     {
      "ats": "greenhouse",
@@ -10997,7 +10743,6 @@
    },
    "tier": 1,
    "notes": null,
-   "hq_source": "sec",
    "boards": [],
    "ashby": null,
    "greenhouse": null,
@@ -11064,7 +10809,6 @@
    },
    "tier": 1,
    "notes": null,
-   "hq_source": "sec",
    "boards": [
     {
      "ats": "ashby",
@@ -11113,7 +10857,6 @@
    },
    "tier": 1,
    "notes": null,
-   "hq_source": "sec",
    "boards": [],
    "ashby": null,
    "greenhouse": null,
@@ -11190,8 +10933,6 @@
    },
    "tier": 1,
    "notes": null,
-   "website_source": "pdl",
-   "hq_source": "pdl",
    "boards": [
     {
      "ats": "lever",
@@ -11334,8 +11075,6 @@
    },
    "tier": 1,
    "notes": null,
-   "website_source": "pdl",
-   "hq_source": "pdl",
    "boards": [
     {
      "ats": "greenhouse",
@@ -11388,8 +11127,6 @@
    },
    "tier": 1,
    "notes": null,
-   "website_source": "pdl",
-   "hq_source": "pdl",
    "boards": [
     {
      "ats": "greenhouse",
@@ -11504,8 +11241,6 @@
    },
    "tier": 1,
    "notes": null,
-   "website_source": "pdl",
-   "hq_source": "pdl",
    "boards": [
     {
      "ats": "ashby",
@@ -11618,8 +11353,6 @@
    },
    "tier": 1,
    "notes": null,
-   "website_source": "pdl",
-   "hq_source": "pdl",
    "boards": [
     {
      "ats": "greenhouse",
@@ -11764,8 +11497,6 @@
    },
    "tier": 1,
    "notes": null,
-   "website_source": "pdl",
-   "hq_source": "pdl",
    "boards": [
     {
      "ats": "greenhouse",
@@ -11910,7 +11641,6 @@
    },
    "tier": 1,
    "notes": null,
-   "hq_source": "sec",
    "boards": [],
    "ashby": null,
    "greenhouse": null,
@@ -11947,7 +11677,6 @@
    },
    "tier": 1,
    "notes": null,
-   "hq_source": "sec",
    "boards": [
     {
      "ats": "lever",
@@ -11996,7 +11725,6 @@
    },
    "tier": 1,
    "notes": null,
-   "hq_source": "sec",
    "boards": [
     {
      "ats": "ashby",
@@ -12045,7 +11773,6 @@
    },
    "tier": 1,
    "notes": null,
-   "hq_source": "sec",
    "boards": [],
    "ashby": null,
    "greenhouse": null,
@@ -12172,7 +11899,6 @@
    },
    "tier": 1,
    "notes": null,
-   "hq_source": "sec",
    "boards": [],
    "ashby": null,
    "greenhouse": null,
@@ -12209,8 +11935,6 @@
    },
    "tier": null,
    "notes": null,
-   "website_source": "linked",
-   "hq_source": "sec",
    "boards": [
     {
      "ats": "greenhouse",
@@ -12259,7 +11983,6 @@
    "hq": null,
    "tier": null,
    "notes": null,
-   "website_source": "linked",
    "boards": [
     {
      "ats": "ashby",
@@ -12325,8 +12048,6 @@
    },
    "tier": null,
    "notes": null,
-   "website_source": "linked",
-   "hq_source": "sec",
    "boards": [
     {
      "ats": "greenhouse",
@@ -12381,8 +12102,6 @@
    },
    "tier": null,
    "notes": null,
-   "website_source": "linked",
-   "hq_source": "sec",
    "boards": [
     {
      "ats": "greenhouse",
@@ -12435,8 +12154,6 @@
    },
    "tier": null,
    "notes": null,
-   "website_source": "pdl",
-   "hq_source": "pdl",
    "boards": [
     {
      "ats": "ashby",
@@ -12569,7 +12286,6 @@
    "hq": null,
    "tier": null,
    "notes": null,
-   "website_source": null,
    "boards": [
     {
      "ats": "greenhouse",
@@ -12670,8 +12386,6 @@
    },
    "tier": null,
    "notes": null,
-   "website_source": "pdl",
-   "hq_source": "pdl",
    "boards": [
     {
      "ats": "ashby",
@@ -12720,7 +12434,6 @@
    "hq": null,
    "tier": null,
    "notes": null,
-   "website_source": "linked",
    "boards": [
     {
      "ats": "greenhouse",
@@ -12769,7 +12482,6 @@
    "hq": null,
    "tier": null,
    "notes": null,
-   "website_source": "linked",
    "boards": [
     {
      "ats": "greenhouse",
@@ -12818,7 +12530,6 @@
    "hq": null,
    "tier": null,
    "notes": null,
-   "website_source": "linked",
    "boards": [
     {
      "ats": "greenhouse",
@@ -12913,8 +12624,6 @@
    },
    "tier": null,
    "notes": null,
-   "website_source": "pdl",
-   "hq_source": "pdl",
    "boards": [
     {
      "ats": "greenhouse",
@@ -12997,8 +12706,6 @@
    },
    "tier": null,
    "notes": null,
-   "website_source": "pdl",
-   "hq_source": "pdl",
    "boards": [
     {
      "ats": "greenhouse",
@@ -13051,8 +12758,6 @@
    },
    "tier": null,
    "notes": null,
-   "website_source": "pdl",
-   "hq_source": "pdl",
    "boards": [
     {
      "ats": "greenhouse",
@@ -13105,8 +12810,6 @@
    },
    "tier": null,
    "notes": null,
-   "website_source": "pdl",
-   "hq_source": "pdl",
    "boards": [
     {
      "ats": "ashby",
@@ -13297,8 +13000,6 @@
    },
    "tier": null,
    "notes": null,
-   "website_source": "pdl",
-   "hq_source": "pdl",
    "boards": [
     {
      "ats": "ashby",
@@ -13351,8 +13052,6 @@
    },
    "tier": null,
    "notes": null,
-   "website_source": "pdl",
-   "hq_source": "pdl",
    "boards": [
     {
      "ats": "ashby",
@@ -13405,8 +13104,6 @@
    },
    "tier": null,
    "notes": null,
-   "website_source": "pdl",
-   "hq_source": "pdl",
    "boards": [
     {
      "ats": "lever",
@@ -13455,7 +13152,6 @@
    "hq": null,
    "tier": null,
    "notes": null,
-   "website_source": null,
    "boards": [
     {
      "ats": "greenhouse",
@@ -13510,8 +13206,6 @@
    },
    "tier": null,
    "notes": null,
-   "website_source": "linked",
-   "hq_source": "sec",
    "boards": [
     {
      "ats": "greenhouse",
@@ -13564,7 +13258,6 @@
    },
    "tier": null,
    "notes": null,
-   "website_source": "pdl",
    "boards": [
     {
      "ats": "greenhouse",
@@ -13617,8 +13310,6 @@
    },
    "tier": null,
    "notes": null,
-   "website_source": "pdl",
-   "hq_source": "pdl",
    "boards": [
     {
      "ats": "lever",
@@ -13743,8 +13434,6 @@
    },
    "tier": null,
    "notes": null,
-   "website_source": "pdl",
-   "hq_source": "pdl",
    "boards": [
     {
      "ats": "ashby",
@@ -13797,8 +13486,6 @@
    },
    "tier": null,
    "notes": null,
-   "website_source": "pdl",
-   "hq_source": "pdl",
    "boards": [
     {
      "ats": "ashby",
@@ -13847,7 +13534,6 @@
    "hq": null,
    "tier": null,
    "notes": null,
-   "website_source": "linked",
    "boards": [
     {
      "ats": "greenhouse",
@@ -13942,7 +13628,6 @@
    },
    "tier": null,
    "notes": null,
-   "website_source": null,
    "boards": [
     {
      "ats": "greenhouse",
@@ -13991,7 +13676,6 @@
    "hq": null,
    "tier": null,
    "notes": null,
-   "website_source": "linked",
    "boards": [
     {
      "ats": "ashby",
@@ -14044,8 +13728,6 @@
    },
    "tier": null,
    "notes": null,
-   "website_source": "pdl",
-   "hq_source": "pdl",
    "boards": [
     {
      "ats": "greenhouse",
@@ -14098,8 +13780,6 @@
    },
    "tier": null,
    "notes": null,
-   "website_source": "pdl",
-   "hq_source": "pdl",
    "boards": [
     {
      "ats": "ashby",
@@ -14182,8 +13862,6 @@
    },
    "tier": null,
    "notes": null,
-   "website_source": "pdl",
-   "hq_source": "pdl",
    "boards": [
     {
      "ats": "ashby",
@@ -14266,8 +13944,6 @@
    },
    "tier": null,
    "notes": null,
-   "website_source": "pdl",
-   "hq_source": "pdl",
    "boards": [
     {
      "ats": "greenhouse",
@@ -14370,8 +14046,6 @@
    },
    "tier": null,
    "notes": null,
-   "website_source": "pdl",
-   "hq_source": "pdl",
    "boards": [
     {
      "ats": "greenhouse",
@@ -14424,8 +14098,6 @@
    },
    "tier": null,
    "notes": null,
-   "website_source": "pdl",
-   "hq_source": "pdl",
    "boards": [
     {
      "ats": "greenhouse",
@@ -14478,8 +14150,6 @@
    },
    "tier": null,
    "notes": null,
-   "website_source": "pdl",
-   "hq_source": "pdl",
    "boards": [
     {
      "ats": "greenhouse",
@@ -14532,8 +14202,6 @@
    },
    "tier": null,
    "notes": null,
-   "website_source": "pdl",
-   "hq_source": "pdl",
    "boards": [
     {
      "ats": "ashby",
@@ -14586,8 +14254,6 @@
    },
    "tier": null,
    "notes": null,
-   "website_source": "pdl",
-   "hq_source": "pdl",
    "boards": [
     {
      "ats": "greenhouse",
@@ -14636,7 +14302,6 @@
    "hq": null,
    "tier": null,
    "notes": null,
-   "website_source": null,
    "boards": [
     {
      "ats": "ashby",
@@ -14781,8 +14446,6 @@
    },
    "tier": null,
    "notes": null,
-   "website_source": "linked",
-   "hq_source": "sec",
    "boards": [
     {
      "ats": "lever",
@@ -14835,8 +14498,6 @@
    },
    "tier": null,
    "notes": null,
-   "website_source": "pdl",
-   "hq_source": "pdl",
    "boards": [
     {
      "ats": "lever",
@@ -14889,8 +14550,6 @@
    },
    "tier": null,
    "notes": null,
-   "website_source": "pdl",
-   "hq_source": "pdl",
    "boards": [
     {
      "ats": "greenhouse",
@@ -15033,8 +14692,6 @@
    },
    "tier": null,
    "notes": null,
-   "website_source": "pdl",
-   "hq_source": "pdl",
    "boards": [
     {
      "ats": "greenhouse",
@@ -15140,8 +14797,6 @@
    },
    "tier": null,
    "notes": null,
-   "website_source": "pdl",
-   "hq_source": "pdl",
    "boards": [
     {
      "ats": "greenhouse",
@@ -15196,8 +14851,6 @@
    },
    "tier": null,
    "notes": null,
-   "website_source": "linked",
-   "hq_source": "sec",
    "boards": [
     {
      "ats": "greenhouse",
@@ -15250,8 +14903,6 @@
    },
    "tier": null,
    "notes": null,
-   "website_source": "pdl",
-   "hq_source": "pdl",
    "boards": [
     {
      "ats": "greenhouse",
@@ -15304,8 +14955,6 @@
    },
    "tier": null,
    "notes": "Moved Ashby->Workday; new board verified live (34 jobs) 2026-08-31",
-   "website_source": "pdl",
-   "hq_source": "pdl",
    "boards": [
     {
      "ats": "workday",
@@ -15358,8 +15007,6 @@
    },
    "tier": null,
    "notes": null,
-   "website_source": "pdl",
-   "hq_source": "pdl",
    "boards": [
     {
      "ats": "greenhouse",
@@ -15412,7 +15059,6 @@
    },
    "tier": null,
    "notes": null,
-   "website_source": null,
    "boards": [],
    "ashby": null,
    "greenhouse": null,
@@ -15447,8 +15093,6 @@
    },
    "tier": null,
    "notes": null,
-   "website_source": "pdl",
-   "hq_source": "pdl",
    "boards": [
     {
      "ats": "ashby",
@@ -15527,7 +15171,6 @@
    "hq": null,
    "tier": null,
    "notes": null,
-   "website_source": "linked",
    "boards": [
     {
      "ats": "lever",
@@ -15576,7 +15219,6 @@
    "hq": null,
    "tier": null,
    "notes": null,
-   "website_source": null,
    "boards": [],
    "ashby": null,
    "greenhouse": null,
@@ -15611,8 +15253,6 @@
    },
    "tier": null,
    "notes": null,
-   "website_source": "pdl",
-   "hq_source": "pdl",
    "boards": [
     {
      "ats": "greenhouse",
@@ -15665,8 +15305,6 @@
    },
    "tier": null,
    "notes": null,
-   "website_source": "pdl",
-   "hq_source": "pdl",
    "boards": [
     {
      "ats": "greenhouse",
@@ -15719,8 +15357,6 @@
    },
    "tier": null,
    "notes": null,
-   "website_source": "pdl",
-   "hq_source": "pdl",
    "boards": [
     {
      "ats": "greenhouse",
@@ -15773,8 +15409,6 @@
    },
    "tier": null,
    "notes": null,
-   "website_source": "pdl",
-   "hq_source": "pdl",
    "boards": [
     {
      "ats": "ashby",
@@ -15838,8 +15472,6 @@
    },
    "tier": null,
    "notes": null,
-   "website_source": "pdl",
-   "hq_source": "pdl",
    "boards": [
     {
      "ats": "greenhouse",
@@ -15924,8 +15556,6 @@
    },
    "tier": null,
    "notes": null,
-   "website_source": "linked",
-   "hq_source": "sec",
    "boards": [
     {
      "ats": "greenhouse",
@@ -15978,8 +15608,6 @@
    },
    "tier": null,
    "notes": null,
-   "website_source": "pdl",
-   "hq_source": "pdl",
    "boards": [
     {
      "ats": "lever",
@@ -16034,8 +15662,6 @@
    },
    "tier": null,
    "notes": null,
-   "website_source": "linked",
-   "hq_source": "sec",
    "boards": [
     {
      "ats": "greenhouse",
@@ -16088,8 +15714,6 @@
    },
    "tier": null,
    "notes": null,
-   "website_source": "pdl",
-   "hq_source": "pdl",
    "boards": [
     {
      "ats": "greenhouse",
@@ -16138,7 +15762,6 @@
    "hq": null,
    "tier": null,
    "notes": null,
-   "website_source": "linked",
    "boards": [
     {
      "ats": "greenhouse",
@@ -16187,7 +15810,6 @@
    "hq": null,
    "tier": null,
    "notes": null,
-   "website_source": "linked",
    "boards": [
     {
      "ats": "greenhouse",
@@ -16236,7 +15858,6 @@
    "hq": null,
    "tier": null,
    "notes": null,
-   "website_source": "linked",
    "boards": [
     {
      "ats": "ashby",
@@ -16348,8 +15969,6 @@
    },
    "tier": null,
    "notes": null,
-   "website_source": "pdl",
-   "hq_source": "pdl",
    "boards": [
     {
      "ats": "greenhouse",
@@ -16450,8 +16069,6 @@
    },
    "tier": null,
    "notes": null,
-   "website_source": "pdl",
-   "hq_source": "pdl",
    "boards": [
     {
      "ats": "greenhouse",
@@ -16504,8 +16121,6 @@
    },
    "tier": null,
    "notes": null,
-   "website_source": "pdl",
-   "hq_source": "pdl",
    "boards": [
     {
      "ats": "greenhouse",
@@ -16558,8 +16173,6 @@
    },
    "tier": null,
    "notes": null,
-   "website_source": "pdl",
-   "hq_source": "pdl",
    "boards": [
     {
      "ats": "greenhouse",
@@ -16650,7 +16263,6 @@
    "hq": null,
    "tier": null,
    "notes": null,
-   "website_source": "linked",
    "boards": [
     {
      "ats": "greenhouse",
@@ -16793,8 +16405,6 @@
    },
    "tier": null,
    "notes": null,
-   "website_source": "pdl",
-   "hq_source": "pdl",
    "boards": [
     {
      "ats": "greenhouse",
@@ -16843,7 +16453,6 @@
    "hq": null,
    "tier": null,
    "notes": null,
-   "website_source": "linked",
    "boards": [
     {
      "ats": "greenhouse",
@@ -16896,8 +16505,6 @@
    },
    "tier": null,
    "notes": null,
-   "website_source": "pdl",
-   "hq_source": "pdl",
    "boards": [
     {
      "ats": "lever",
@@ -16946,7 +16553,6 @@
    "hq": null,
    "tier": null,
    "notes": null,
-   "website_source": "linked",
    "boards": [
     {
      "ats": "ashby",
@@ -16995,7 +16601,6 @@
    "hq": null,
    "tier": null,
    "notes": null,
-   "website_source": "linked",
    "boards": [
     {
      "ats": "greenhouse",
@@ -17048,8 +16653,6 @@
    },
    "tier": null,
    "notes": null,
-   "website_source": "wikidata",
-   "hq_source": "wikidata",
    "boards": [
     {
      "ats": "greenhouse",
@@ -17102,8 +16705,6 @@
    },
    "tier": null,
    "notes": null,
-   "website_source": "pdl",
-   "hq_source": "pdl",
    "boards": [
     {
      "ats": "greenhouse",
@@ -17156,8 +16757,6 @@
    },
    "tier": null,
    "notes": null,
-   "website_source": "pdl",
-   "hq_source": "pdl",
    "boards": [
     {
      "ats": "greenhouse",
@@ -17210,8 +16809,6 @@
    },
    "tier": null,
    "notes": null,
-   "website_source": "pdl",
-   "hq_source": "pdl",
    "boards": [
     {
      "ats": "ashby",
@@ -17271,7 +16868,6 @@
    "hq": null,
    "tier": null,
    "notes": null,
-   "website_source": "pdl",
    "boards": [
     {
      "ats": "greenhouse",
@@ -17324,8 +16920,6 @@
    },
    "tier": null,
    "notes": null,
-   "website_source": "pdl",
-   "hq_source": "pdl",
    "boards": [
     {
      "ats": "greenhouse",
@@ -17378,8 +16972,6 @@
    },
    "tier": null,
    "notes": null,
-   "website_source": "pdl",
-   "hq_source": "pdl",
    "boards": [
     {
      "ats": "greenhouse",
@@ -17434,8 +17026,6 @@
    },
    "tier": null,
    "notes": null,
-   "website_source": "linked",
-   "hq_source": "sec",
    "boards": [
     {
      "ats": "greenhouse",
@@ -17490,8 +17080,6 @@
    },
    "tier": null,
    "notes": null,
-   "website_source": null,
-   "hq_source": "sec",
    "boards": [
     {
      "ats": "greenhouse",
@@ -17544,8 +17132,6 @@
    },
    "tier": null,
    "notes": null,
-   "website_source": "pdl",
-   "hq_source": "pdl",
    "boards": [
     {
      "ats": "greenhouse",
@@ -17640,8 +17226,6 @@
    },
    "tier": null,
    "notes": null,
-   "website_source": "pdl",
-   "hq_source": "pdl",
    "boards": [
     {
      "ats": "greenhouse",
@@ -17694,8 +17278,6 @@
    },
    "tier": null,
    "notes": null,
-   "website_source": "pdl",
-   "hq_source": "pdl",
    "boards": [
     {
      "ats": "greenhouse",
@@ -17748,8 +17330,6 @@
    },
    "tier": null,
    "notes": null,
-   "website_source": "pdl",
-   "hq_source": "pdl",
    "boards": [
     {
      "ats": "greenhouse",
@@ -17802,8 +17382,6 @@
    },
    "tier": null,
    "notes": null,
-   "website_source": "pdl",
-   "hq_source": "pdl",
    "boards": [
     {
      "ats": "ashby",
@@ -17886,8 +17464,6 @@
    },
    "tier": null,
    "notes": null,
-   "website_source": "pdl",
-   "hq_source": "pdl",
    "boards": [
     {
      "ats": "greenhouse",
@@ -17940,8 +17516,6 @@
    },
    "tier": null,
    "notes": null,
-   "website_source": "pdl",
-   "hq_source": "pdl",
    "boards": [
     {
      "ats": "greenhouse",
@@ -17994,8 +17568,6 @@
    },
    "tier": null,
    "notes": null,
-   "website_source": "pdl",
-   "hq_source": "pdl",
    "boards": [
     {
      "ats": "lever",
@@ -18048,8 +17620,6 @@
    },
    "tier": null,
    "notes": null,
-   "website_source": "pdl",
-   "hq_source": "pdl",
    "boards": [
     {
      "ats": "ashby",
@@ -18144,8 +17714,6 @@
    },
    "tier": null,
    "notes": null,
-   "website_source": "pdl",
-   "hq_source": "pdl",
    "boards": [
     {
      "ats": "ashby",
@@ -18198,8 +17766,6 @@
    },
    "tier": null,
    "notes": null,
-   "website_source": "pdl",
-   "hq_source": "pdl",
    "boards": [
     {
      "ats": "ashby",
@@ -18252,8 +17818,6 @@
    },
    "tier": null,
    "notes": null,
-   "website_source": "pdl",
-   "hq_source": "pdl",
    "boards": [
     {
      "ats": "greenhouse",
@@ -18308,7 +17872,6 @@
    },
    "tier": null,
    "notes": null,
-   "website_source": null,
    "boards": [
     {
      "ats": "greenhouse",
@@ -18361,8 +17924,6 @@
    },
    "tier": null,
    "notes": null,
-   "website_source": "pdl",
-   "hq_source": "pdl",
    "boards": [
     {
      "ats": "ashby",
@@ -18415,8 +17976,6 @@
    },
    "tier": null,
    "notes": null,
-   "website_source": "pdl",
-   "hq_source": "pdl",
    "boards": [
     {
      "ats": "greenhouse",
@@ -18469,8 +18028,6 @@
    },
    "tier": null,
    "notes": null,
-   "website_source": "pdl",
-   "hq_source": "pdl",
    "boards": [
     {
      "ats": "lever",
@@ -18523,8 +18080,6 @@
    },
    "tier": null,
    "notes": null,
-   "website_source": "pdl",
-   "hq_source": "pdl",
    "boards": [
     {
      "ats": "lever",
@@ -18619,8 +18174,6 @@
    },
    "tier": null,
    "notes": null,
-   "website_source": "pdl",
-   "hq_source": "pdl",
    "boards": [
     {
      "ats": "greenhouse",
@@ -18673,8 +18226,6 @@
    },
    "tier": null,
    "notes": null,
-   "website_source": "pdl",
-   "hq_source": "pdl",
    "boards": [
     {
      "ats": "greenhouse",
@@ -18727,8 +18278,6 @@
    },
    "tier": null,
    "notes": null,
-   "website_source": "pdl",
-   "hq_source": "pdl",
    "boards": [
     {
      "ats": "ashby",
@@ -18792,8 +18341,6 @@
    },
    "tier": null,
    "notes": null,
-   "website_source": "pdl",
-   "hq_source": "pdl",
    "boards": [
     {
      "ats": "greenhouse",
@@ -19006,8 +18553,6 @@
    },
    "tier": null,
    "notes": null,
-   "website_source": "linked",
-   "hq_source": "sec",
    "boards": [
     {
      "ats": "greenhouse",
@@ -19090,8 +18635,6 @@
    },
    "tier": null,
    "notes": null,
-   "website_source": "pdl",
-   "hq_source": "pdl",
    "boards": [
     {
      "ats": "greenhouse",
@@ -19144,7 +18687,6 @@
    },
    "tier": null,
    "notes": null,
-   "website_source": "pdl",
    "boards": [
     {
      "ats": "ashby",
@@ -19193,7 +18735,6 @@
    "hq": null,
    "tier": null,
    "notes": null,
-   "website_source": null,
    "boards": [],
    "ashby": null,
    "greenhouse": null,
@@ -19320,7 +18861,6 @@
    "hq": null,
    "tier": null,
    "notes": null,
-   "website_source": "linked",
    "boards": [
     {
      "ats": "greenhouse",
@@ -19371,7 +18911,6 @@
    "hq": null,
    "tier": null,
    "notes": null,
-   "website_source": "linked",
    "boards": [
     {
      "ats": "ashby",
@@ -19519,8 +19058,6 @@
    },
    "tier": null,
    "notes": null,
-   "website_source": "pdl",
-   "hq_source": "pdl",
    "boards": [
     {
      "ats": "ashby",
@@ -19573,8 +19110,6 @@
    },
    "tier": null,
    "notes": null,
-   "website_source": "pdl",
-   "hq_source": "pdl",
    "boards": [
     {
      "ats": "lever",
@@ -19711,8 +19246,6 @@
    },
    "tier": null,
    "notes": null,
-   "website_source": "pdl",
-   "hq_source": "pdl",
    "boards": [
     {
      "ats": "greenhouse",
@@ -19765,8 +19298,6 @@
    },
    "tier": null,
    "notes": null,
-   "website_source": "pdl",
-   "hq_source": "pdl",
    "boards": [
     {
      "ats": "greenhouse",
@@ -19849,8 +19380,6 @@
    },
    "tier": null,
    "notes": null,
-   "website_source": "pdl",
-   "hq_source": "pdl",
    "boards": [
     {
      "ats": "ashby",
@@ -19905,8 +19434,6 @@
    },
    "tier": null,
    "notes": null,
-   "website_source": "linked",
-   "hq_source": "sec",
    "boards": [
     {
      "ats": "ashby",
@@ -20001,8 +19528,6 @@
    },
    "tier": null,
    "notes": null,
-   "website_source": "pdl",
-   "hq_source": "pdl",
    "boards": [
     {
      "ats": "greenhouse",
@@ -20099,7 +19624,6 @@
    "hq": null,
    "tier": null,
    "notes": null,
-   "website_source": "linked",
    "boards": [
     {
      "ats": "greenhouse",
@@ -20154,8 +19678,6 @@
    },
    "tier": null,
    "notes": null,
-   "website_source": "pdl",
-   "hq_source": "pdl",
    "boards": [
     {
      "ats": "greenhouse",
@@ -20208,8 +19730,6 @@
    },
    "tier": null,
    "notes": null,
-   "website_source": "pdl",
-   "hq_source": "pdl",
    "boards": [
     {
      "ats": "ashby",
@@ -20262,8 +19782,6 @@
    },
    "tier": null,
    "notes": null,
-   "website_source": "pdl",
-   "hq_source": "pdl",
    "boards": [
     {
      "ats": "lever",
@@ -20316,7 +19834,6 @@
    },
    "tier": null,
    "notes": null,
-   "website_source": null,
    "boards": [
     {
      "ats": "greenhouse",
@@ -20369,8 +19886,6 @@
    },
    "tier": null,
    "notes": null,
-   "website_source": "pdl",
-   "hq_source": "pdl",
    "boards": [
     {
      "ats": "greenhouse",
@@ -20423,8 +19938,6 @@
    },
    "tier": null,
    "notes": null,
-   "website_source": "pdl",
-   "hq_source": "pdl",
    "boards": [
     {
      "ats": "ashby",
@@ -20548,8 +20061,6 @@
    },
    "tier": null,
    "notes": null,
-   "website_source": "pdl",
-   "hq_source": "pdl",
    "boards": [
     {
      "ats": "greenhouse",
@@ -20602,8 +20113,6 @@
    },
    "tier": null,
    "notes": null,
-   "website_source": "pdl",
-   "hq_source": "pdl",
    "boards": [
     {
      "ats": "greenhouse",
@@ -20652,7 +20161,6 @@
    "hq": null,
    "tier": null,
    "notes": null,
-   "website_source": "pdl",
    "boards": [
     {
      "ats": "ashby",
@@ -20705,8 +20213,6 @@
    },
    "tier": null,
    "notes": null,
-   "website_source": "pdl",
-   "hq_source": "pdl",
    "boards": [
     {
      "ats": "greenhouse",
@@ -20759,8 +20265,6 @@
    },
    "tier": null,
    "notes": null,
-   "website_source": "pdl",
-   "hq_source": "pdl",
    "boards": [
     {
      "ats": "greenhouse",
@@ -20824,8 +20328,6 @@
    },
    "tier": null,
    "notes": null,
-   "website_source": "pdl",
-   "hq_source": "pdl",
    "boards": [
     {
      "ats": "greenhouse",
@@ -20878,8 +20380,6 @@
    },
    "tier": null,
    "notes": null,
-   "website_source": "pdl",
-   "hq_source": "pdl",
    "boards": [
     {
      "ats": "greenhouse",
@@ -21004,8 +20504,6 @@
    },
    "tier": null,
    "notes": null,
-   "website_source": "pdl",
-   "hq_source": "pdl",
    "boards": [
     {
      "ats": "greenhouse",
@@ -21058,8 +20556,6 @@
    },
    "tier": null,
    "notes": null,
-   "website_source": "pdl",
-   "hq_source": "pdl",
    "boards": [
     {
      "ats": "greenhouse",
@@ -21108,7 +20604,6 @@
    "hq": null,
    "tier": null,
    "notes": null,
-   "website_source": "linked",
    "boards": [
     {
      "ats": "ashby",
@@ -21157,7 +20652,6 @@
    "hq": null,
    "tier": null,
    "notes": null,
-   "website_source": "linked",
    "boards": [
     {
      "ats": "greenhouse",
@@ -21252,8 +20746,6 @@
    },
    "tier": null,
    "notes": null,
-   "website_source": "pdl",
-   "hq_source": "pdl",
    "boards": [
     {
      "ats": "greenhouse",
@@ -21306,8 +20798,6 @@
    },
    "tier": null,
    "notes": null,
-   "website_source": "pdl",
-   "hq_source": "pdl",
    "boards": [
     {
      "ats": "lever",
@@ -21360,8 +20850,6 @@
    },
    "tier": null,
    "notes": null,
-   "website_source": "pdl",
-   "hq_source": "pdl",
    "boards": [
     {
      "ats": "greenhouse",
@@ -21416,8 +20904,6 @@
    },
    "tier": null,
    "notes": null,
-   "website_source": "linked",
-   "hq_source": "sec",
    "boards": [
     {
      "ats": "ashby",
@@ -21523,8 +21009,6 @@
    },
    "tier": null,
    "notes": null,
-   "website_source": "pdl",
-   "hq_source": "pdl",
    "boards": [
     {
      "ats": "ashby",
@@ -21577,8 +21061,6 @@
    },
    "tier": null,
    "notes": null,
-   "website_source": "pdl",
-   "hq_source": "pdl",
    "boards": [
     {
      "ats": "lever",
@@ -21657,7 +21139,6 @@
    "hq": null,
    "tier": null,
    "notes": "Slug repaired greenhouse:attentive (verified 2026-08-08)",
-   "website_source": "pdl",
    "boards": [
     {
      "ats": "greenhouse",
@@ -21706,7 +21187,6 @@
    "hq": null,
    "tier": null,
    "notes": null,
-   "website_source": "linked",
    "boards": [
     {
      "ats": "greenhouse",
@@ -21793,7 +21273,6 @@
    "hq": null,
    "tier": null,
    "notes": null,
-   "website_source": "linked",
    "boards": [
     {
      "ats": "greenhouse",
@@ -21842,7 +21321,6 @@
    "hq": null,
    "tier": null,
    "notes": null,
-   "website_source": "linked",
    "boards": [
     {
      "ats": "greenhouse",
@@ -21891,7 +21369,6 @@
    "hq": null,
    "tier": null,
    "notes": null,
-   "website_source": "linked",
    "boards": [
     {
      "ats": "lever",
@@ -21940,7 +21417,6 @@
    "hq": null,
    "tier": null,
    "notes": null,
-   "website_source": "linked",
    "boards": [
     {
      "ats": "lever",
@@ -21989,7 +21465,6 @@
    "hq": null,
    "tier": null,
    "notes": null,
-   "website_source": null,
    "boards": [],
    "ashby": null,
    "greenhouse": null,
@@ -22024,8 +21499,6 @@
    },
    "tier": null,
    "notes": null,
-   "website_source": "pdl",
-   "hq_source": "pdl",
    "boards": [
     {
      "ats": "lever",
@@ -22078,8 +21551,6 @@
    },
    "tier": null,
    "notes": null,
-   "website_source": "pdl",
-   "hq_source": "pdl",
    "boards": [
     {
      "ats": "lever",
@@ -22132,8 +21603,6 @@
    },
    "tier": null,
    "notes": null,
-   "website_source": "pdl",
-   "hq_source": "pdl",
    "boards": [
     {
      "ats": "ashby",
@@ -22186,8 +21655,6 @@
    },
    "tier": null,
    "notes": null,
-   "website_source": "pdl",
-   "hq_source": "pdl",
    "boards": [
     {
      "ats": "greenhouse",
@@ -22242,8 +21709,6 @@
    },
    "tier": null,
    "notes": null,
-   "website_source": "linked",
-   "hq_source": "sec",
    "boards": [
     {
      "ats": "greenhouse",
@@ -22298,7 +21763,6 @@
    },
    "tier": null,
    "notes": null,
-   "hq_source": "sec",
    "boards": [
     {
      "ats": "ashby",
@@ -22389,7 +21853,6 @@
    "hq": null,
    "tier": null,
    "notes": null,
-   "website_source": null,
    "boards": [
     {
      "ats": "ashby",
@@ -22442,8 +21905,6 @@
    },
    "tier": null,
    "notes": null,
-   "website_source": "pdl",
-   "hq_source": "pdl",
    "boards": [
     {
      "ats": "greenhouse",
@@ -22534,7 +21995,6 @@
    "hq": null,
    "tier": null,
    "notes": null,
-   "website_source": "linked",
    "boards": [
     {
      "ats": "greenhouse",
@@ -22587,8 +22047,6 @@
    },
    "tier": null,
    "notes": null,
-   "website_source": "pdl",
-   "hq_source": "pdl",
    "boards": [
     {
      "ats": "greenhouse",
@@ -22641,8 +22099,6 @@
    },
    "tier": null,
    "notes": null,
-   "website_source": "pdl",
-   "hq_source": "pdl",
    "boards": [
     {
      "ats": "greenhouse",
@@ -22695,8 +22151,6 @@
    },
    "tier": null,
    "notes": null,
-   "website_source": "pdl",
-   "hq_source": "pdl",
    "boards": [
     {
      "ats": "greenhouse",
@@ -22749,8 +22203,6 @@
    },
    "tier": null,
    "notes": null,
-   "website_source": "pdl",
-   "hq_source": "pdl",
    "boards": [
     {
      "ats": "greenhouse",
@@ -22803,8 +22255,6 @@
    },
    "tier": null,
    "notes": null,
-   "website_source": "pdl",
-   "hq_source": "pdl",
    "boards": [
     {
      "ats": "ashby",
@@ -22857,8 +22307,6 @@
    },
    "tier": null,
    "notes": null,
-   "website_source": "pdl",
-   "hq_source": "pdl",
    "boards": [
     {
      "ats": "ashby",
@@ -22922,8 +22370,6 @@
    },
    "tier": null,
    "notes": null,
-   "website_source": "pdl",
-   "hq_source": "pdl",
    "boards": [
     {
      "ats": "lever",
@@ -23067,7 +22513,6 @@
    "hq": null,
    "tier": null,
    "notes": null,
-   "website_source": null,
    "boards": [
     {
      "ats": "greenhouse",
@@ -23192,8 +22637,6 @@
    },
    "tier": null,
    "notes": null,
-   "website_source": "pdl",
-   "hq_source": "pdl",
    "boards": [
     {
      "ats": "ashby",
@@ -23246,8 +22689,6 @@
    },
    "tier": null,
    "notes": null,
-   "website_source": "pdl",
-   "hq_source": "pdl",
    "boards": [
     {
      "ats": "greenhouse",
@@ -23300,8 +22741,6 @@
    },
    "tier": null,
    "notes": null,
-   "website_source": "pdl",
-   "hq_source": "pdl",
    "boards": [
     {
      "ats": "ashby",
@@ -23350,7 +22789,6 @@
    "hq": null,
    "tier": null,
    "notes": null,
-   "website_source": null,
    "boards": [],
    "ashby": null,
    "greenhouse": null,
@@ -23381,7 +22819,6 @@
    "hq": null,
    "tier": null,
    "notes": null,
-   "website_source": "linked",
    "boards": [
     {
      "ats": "greenhouse",
@@ -23436,8 +22873,6 @@
    },
    "tier": null,
    "notes": null,
-   "website_source": "linked",
-   "hq_source": "sec",
    "boards": [
     {
      "ats": "greenhouse",
@@ -23568,8 +23003,6 @@
    },
    "tier": null,
    "notes": null,
-   "website_source": "pdl",
-   "hq_source": "pdl",
    "boards": [
     {
      "ats": "greenhouse",
@@ -23622,8 +23055,6 @@
    },
    "tier": null,
    "notes": null,
-   "website_source": "pdl",
-   "hq_source": "pdl",
    "boards": [
     {
      "ats": "lever",
@@ -23676,8 +23107,6 @@
    },
    "tier": null,
    "notes": null,
-   "website_source": "pdl",
-   "hq_source": "pdl",
    "boards": [
     {
      "ats": "greenhouse",
@@ -23730,8 +23159,6 @@
    },
    "tier": null,
    "notes": null,
-   "website_source": "pdl",
-   "hq_source": "pdl",
    "boards": [
     {
      "ats": "greenhouse",
@@ -23784,8 +23211,6 @@
    },
    "tier": null,
    "notes": null,
-   "website_source": "pdl",
-   "hq_source": "pdl",
    "boards": [
     {
      "ats": "ashby",
@@ -23838,8 +23263,6 @@
    },
    "tier": null,
    "notes": null,
-   "website_source": "pdl",
-   "hq_source": "pdl",
    "boards": [
     {
      "ats": "ashby",
@@ -23892,7 +23315,6 @@
    },
    "tier": null,
    "notes": null,
-   "website_source": null,
    "boards": [],
    "ashby": null,
    "greenhouse": null,
@@ -23927,8 +23349,6 @@
    },
    "tier": null,
    "notes": null,
-   "website_source": "pdl",
-   "hq_source": "pdl",
    "boards": [
     {
      "ats": "greenhouse",
@@ -23973,7 +23393,6 @@
    "hq": null,
    "tier": null,
    "notes": null,
-   "website_source": "linked",
    "boards": [
     {
      "ats": "greenhouse",
@@ -24028,8 +23447,6 @@
    },
    "tier": null,
    "notes": null,
-   "website_source": "pdl",
-   "hq_source": "pdl",
    "boards": [
     {
      "ats": "greenhouse",
@@ -24082,8 +23499,6 @@
    },
    "tier": null,
    "notes": null,
-   "website_source": "pdl",
-   "hq_source": "pdl",
    "boards": [
     {
      "ats": "lever",
@@ -24136,8 +23551,6 @@
    },
    "tier": null,
    "notes": null,
-   "website_source": "pdl",
-   "hq_source": "pdl",
    "boards": [
     {
      "ats": "lever",
@@ -24190,8 +23603,6 @@
    },
    "tier": null,
    "notes": null,
-   "website_source": "pdl",
-   "hq_source": "pdl",
    "boards": [
     {
      "ats": "greenhouse",
@@ -24244,8 +23655,6 @@
    },
    "tier": null,
    "notes": null,
-   "website_source": "pdl",
-   "hq_source": "pdl",
    "boards": [
     {
      "ats": "ashby",
@@ -24298,8 +23707,6 @@
    },
    "tier": null,
    "notes": null,
-   "website_source": "pdl",
-   "hq_source": "pdl",
    "boards": [
     {
      "ats": "greenhouse",
@@ -24432,8 +23839,6 @@
    },
    "tier": 1,
    "notes": "Workday tenant found Aug 2026",
-   "website_source": "pdl",
-   "hq_source": "pdl",
    "boards": [
     {
      "ats": "workday",
@@ -24488,7 +23893,6 @@
    },
    "tier": 1,
    "notes": null,
-   "hq_source": "sec",
    "boards": [],
    "ashby": null,
    "greenhouse": null,
@@ -24733,8 +24137,6 @@
    },
    "tier": 1,
    "notes": null,
-   "website_source": "pdl",
-   "hq_source": "pdl",
    "boards": [
     {
      "ats": "workday",
@@ -25029,7 +24431,6 @@
    },
    "tier": 1,
    "notes": null,
-   "hq_source": "sec",
    "boards": [],
    "ashby": null,
    "greenhouse": null,
@@ -25060,7 +24461,6 @@
    "hq": null,
    "tier": 1,
    "notes": null,
-   "website_source": "linked",
    "boards": [
     {
      "ats": "ashby",
@@ -25109,7 +24509,6 @@
    "hq": null,
    "tier": 1,
    "notes": null,
-   "website_source": "pdl",
    "boards": [
     {
      "ats": "greenhouse",
@@ -25222,7 +24621,6 @@
    },
    "tier": 1,
    "notes": null,
-   "website_source": "pdl",
    "boards": [
     {
      "ats": "greenhouse",
@@ -25275,8 +24673,6 @@
    },
    "tier": 1,
    "notes": null,
-   "website_source": "pdl",
-   "hq_source": "pdl",
    "boards": [
     {
      "ats": "ashby",
@@ -25421,7 +24817,6 @@
    },
    "tier": 1,
    "notes": null,
-   "hq_source": "sec",
    "boards": [],
    "ashby": null,
    "greenhouse": null,
@@ -25550,7 +24945,6 @@
    "hq": null,
    "tier": null,
    "notes": null,
-   "website_source": null,
    "boards": [],
    "ashby": null,
    "greenhouse": null,
@@ -25587,7 +24981,6 @@
    },
    "tier": null,
    "notes": null,
-   "hq_source": "sec",
    "boards": [],
    "ashby": null,
    "greenhouse": null,
@@ -25618,7 +25011,6 @@
    "hq": null,
    "tier": null,
    "notes": null,
-   "website_source": null,
    "boards": [],
    "ashby": null,
    "greenhouse": null,
@@ -25775,8 +25167,6 @@
    },
    "tier": null,
    "notes": null,
-   "website_source": null,
-   "hq_source": "sec",
    "boards": [],
    "ashby": null,
    "greenhouse": null,
@@ -25897,8 +25287,6 @@
    },
    "tier": null,
    "notes": "Greenhouse verified live Aug 2026 (28 jobs, board is \"Clari + Salesloft\" post-merger); previous Ashby slug wrong; deduped two spelling variants",
-   "website_source": "pdl",
-   "hq_source": "pdl",
    "boards": [
     {
      "ats": "greenhouse",
@@ -25951,8 +25339,6 @@
    },
    "tier": null,
    "notes": "Added from manually added job URL",
-   "website_source": "pdl",
-   "hq_source": "pdl",
    "boards": [
     {
      "ats": "ashby",
@@ -26005,8 +25391,6 @@
    },
    "tier": null,
    "notes": "Added from watchlist expansion (reviewed, slug verified 2026-08-08)",
-   "website_source": "pdl",
-   "hq_source": "pdl",
    "boards": [
     {
      "ats": "greenhouse",
@@ -26059,8 +25443,6 @@
    },
    "tier": null,
    "notes": "Added from watchlist expansion (reviewed, slug verified 2026-08-08)",
-   "website_source": "pdl",
-   "hq_source": "pdl",
    "boards": [
     {
      "ats": "greenhouse",
@@ -26113,8 +25495,6 @@
    },
    "tier": null,
    "notes": "Added from watchlist expansion (reviewed, slug verified 2026-08-08)",
-   "website_source": "pdl",
-   "hq_source": "pdl",
    "boards": [
     {
      "ats": "lever",
@@ -26209,8 +25589,6 @@
    },
    "tier": null,
    "notes": "Added from watchlist expansion (reviewed, slug verified 2026-08-08)",
-   "website_source": "pdl",
-   "hq_source": "pdl",
    "boards": [
     {
      "ats": "lever",
@@ -26263,8 +25641,6 @@
    },
    "tier": null,
    "notes": "Added from watchlist expansion (reviewed, slug verified 2026-08-08)",
-   "website_source": "pdl",
-   "hq_source": "pdl",
    "boards": [
     {
      "ats": "ashby",
@@ -26317,8 +25693,6 @@
    },
    "tier": null,
    "notes": "Added from watchlist expansion (reviewed, slug verified 2026-08-08)",
-   "website_source": "pdl",
-   "hq_source": "pdl",
    "boards": [
     {
      "ats": "greenhouse",
@@ -26371,8 +25745,6 @@
    },
    "tier": null,
    "notes": "Added from watchlist expansion (reviewed, slug verified 2026-08-08)",
-   "website_source": "pdl",
-   "hq_source": "pdl",
    "boards": [
     {
      "ats": "workday",
@@ -26425,8 +25797,6 @@
    },
    "tier": null,
    "notes": "Added from watchlist expansion (reviewed, slug verified 2026-08-08)",
-   "website_source": "pdl",
-   "hq_source": "pdl",
    "boards": [
     {
      "ats": "workday",
@@ -26481,8 +25851,6 @@
    },
    "tier": null,
    "notes": "Workday migrated wd5->wd115 on 2026-08-24 (vendor migration page); fixed + verified live 2026-08-31",
-   "website_source": "linked",
-   "hq_source": "sec",
    "boards": [
     {
      "ats": "workday",
@@ -26537,7 +25905,6 @@
    },
    "tier": null,
    "notes": "Added from watchlist expansion (reviewed, slug verified 2026-08-08)",
-   "hq_source": "sec",
    "boards": [
     {
      "ats": "workday",
@@ -26590,8 +25957,6 @@
    },
    "tier": null,
    "notes": "Added from watchlist expansion (reviewed, slug verified 2026-08-08)",
-   "website_source": "pdl",
-   "hq_source": "pdl",
    "boards": [
     {
      "ats": "ashby",
@@ -26646,8 +26011,6 @@
    },
    "tier": null,
    "notes": "Added from watchlist expansion (reviewed, slug verified 2026-08-08)",
-   "website_source": "linked",
-   "hq_source": "sec",
    "boards": [
     {
      "ats": "workday",
@@ -26702,8 +26065,6 @@
    },
    "tier": null,
    "notes": "Added from watchlist expansion (reviewed, slug verified 2026-08-08)",
-   "website_source": "linked",
-   "hq_source": "sec",
    "boards": [
     {
      "ats": "workday",
@@ -26756,8 +26117,6 @@
    },
    "tier": null,
    "notes": "Added from watchlist expansion (reviewed, slug verified 2026-08-08)",
-   "website_source": "pdl",
-   "hq_source": "pdl",
    "boards": [
     {
      "ats": "workday",
@@ -26810,8 +26169,6 @@
    },
    "tier": null,
    "notes": "Added from watchlist expansion (reviewed, slug verified 2026-08-08)",
-   "website_source": "pdl",
-   "hq_source": "pdl",
    "boards": [
     {
      "ats": "lever",
@@ -26864,8 +26221,6 @@
    },
    "tier": null,
    "notes": "Added from watchlist expansion (reviewed, slug verified 2026-08-08)",
-   "website_source": "pdl",
-   "hq_source": "pdl",
    "boards": [
     {
      "ats": "workday",
@@ -26918,8 +26273,6 @@
    },
    "tier": null,
    "notes": "Added from watchlist expansion (reviewed, slug verified 2026-08-08)",
-   "website_source": "pdl",
-   "hq_source": "pdl",
    "boards": [
     {
      "ats": "greenhouse",
@@ -26972,8 +26325,6 @@
    },
    "tier": null,
    "notes": "Added from watchlist expansion (reviewed, slug verified 2026-08-08)",
-   "website_source": "pdl",
-   "hq_source": "pdl",
    "boards": [
     {
      "ats": "greenhouse",
@@ -27026,8 +26377,6 @@
    },
    "tier": null,
    "notes": "Added from watchlist expansion (reviewed, slug verified 2026-08-08)",
-   "website_source": "pdl",
-   "hq_source": "pdl",
    "boards": [
     {
      "ats": "workday",
@@ -27164,8 +26513,6 @@
    },
    "tier": null,
    "notes": "Added from watchlist expansion (reviewed, slug verified 2026-08-08)",
-   "website_source": "pdl",
-   "hq_source": "pdl",
    "boards": [
     {
      "ats": "greenhouse",
@@ -27220,8 +26567,6 @@
    },
    "tier": null,
    "notes": "Added from watchlist expansion (reviewed, slug verified 2026-08-08)",
-   "website_source": "linked",
-   "hq_source": "sec",
    "boards": [
     {
      "ats": "workday",
@@ -27275,9 +26620,6 @@
    },
    "tier": null,
    "notes": "Added by candidates.py on 2026-09-10 from wikidata Q1485061",
-   "website_source": "pdl",
-   "selection_sector": "industrial_manufacturing",
-   "hq_source": "pdl",
    "boards": [],
    "ashby": null,
    "greenhouse": null,
@@ -27315,8 +26657,6 @@
    },
    "tier": null,
    "notes": "Added by candidates.py on 2026-09-10 from wikidata Q44294",
-   "selection_sector": "industrial_manufacturing",
-   "hq_source": "sec",
    "boards": [],
    "ashby": null,
    "greenhouse": null,
@@ -27354,8 +26694,6 @@
    },
    "tier": null,
    "notes": "Added by candidates.py on 2026-09-10 from wikidata Q89368734",
-   "selection_sector": "industrial_manufacturing",
-   "hq_source": "sec",
    "boards": [],
    "ashby": null,
    "greenhouse": null,
@@ -27393,8 +26731,6 @@
    },
    "tier": null,
    "notes": "Added by candidates.py on 2026-09-10 from wikidata Q66",
-   "selection_sector": "industrial_manufacturing",
-   "hq_source": "sec",
    "boards": [],
    "ashby": null,
    "greenhouse": null,
@@ -27432,8 +26768,6 @@
    },
    "tier": null,
    "notes": "Added by candidates.py on 2026-09-10 from wikidata Q81965",
-   "selection_sector": "industrial_manufacturing",
-   "hq_source": "sec",
    "boards": [],
    "ashby": null,
    "greenhouse": null,
@@ -27471,8 +26805,6 @@
    },
    "tier": null,
    "notes": "Added by candidates.py on 2026-09-10 from wikidata Q478214",
-   "selection_sector": "industrial_manufacturing",
-   "hq_source": "sec",
    "boards": [],
    "ashby": null,
    "greenhouse": null,
@@ -27508,9 +26840,6 @@
    },
    "tier": null,
    "notes": "Added by candidates.py on 2026-09-10 from wikidata Q967620",
-   "website_source": "wikidata",
-   "selection_sector": "industrial_manufacturing",
-   "hq_source": "wikidata",
    "boards": [],
    "ashby": null,
    "greenhouse": null,
@@ -27546,9 +26875,6 @@
    },
    "tier": null,
    "notes": "Added by candidates.py on 2026-09-10 from wikidata Q221062",
-   "website_source": "wikidata",
-   "selection_sector": "industrial_manufacturing",
-   "hq_source": "wikidata",
    "boards": [],
    "ashby": null,
    "greenhouse": null,
@@ -27584,9 +26910,6 @@
    },
    "tier": null,
    "notes": "Added by candidates.py on 2026-09-10 from wikidata Q486269",
-   "website_source": "pdl",
-   "selection_sector": "industrial_manufacturing",
-   "hq_source": "pdl",
    "boards": [],
    "ashby": null,
    "greenhouse": null,
@@ -27624,8 +26947,6 @@
    },
    "tier": null,
    "notes": "Added by candidates.py on 2026-09-10 from wikidata Q48872",
-   "selection_sector": "industrial_manufacturing",
-   "hq_source": "sec",
    "boards": [],
    "ashby": null,
    "greenhouse": null,
@@ -27663,8 +26984,6 @@
    },
    "tier": null,
    "notes": "Added by candidates.py on 2026-09-10 from wikidata Q502940",
-   "selection_sector": "industrial_manufacturing",
-   "hq_source": "sec",
    "boards": [],
    "ashby": null,
    "greenhouse": null,
@@ -27700,9 +27019,6 @@
    },
    "tier": null,
    "notes": "Added by candidates.py on 2026-09-10 from wikidata Q358594",
-   "website_source": "pdl",
-   "selection_sector": "industrial_manufacturing",
-   "hq_source": "pdl",
    "boards": [],
    "ashby": null,
    "greenhouse": null,
@@ -27738,9 +27054,6 @@
    },
    "tier": null,
    "notes": "Added by candidates.py on 2026-09-10 from wikidata Q795324",
-   "website_source": "pdl",
-   "selection_sector": "industrial_manufacturing",
-   "hq_source": "pdl",
    "boards": [],
    "ashby": null,
    "greenhouse": null,
@@ -27778,8 +27091,6 @@
    },
    "tier": null,
    "notes": "Added by candidates.py on 2026-09-10 from wikidata Q496302",
-   "selection_sector": "industrial_manufacturing",
-   "hq_source": "sec",
    "boards": [],
    "ashby": null,
    "greenhouse": null,
@@ -27815,9 +27126,6 @@
    },
    "tier": null,
    "notes": "Added by candidates.py on 2026-09-10 from wikidata Q620875",
-   "website_source": "wikidata",
-   "selection_sector": "industrial_manufacturing",
-   "hq_source": "wikidata",
    "boards": [],
    "ashby": null,
    "greenhouse": null,
@@ -27855,8 +27163,6 @@
    },
    "tier": null,
    "notes": "Added by candidates.py on 2026-09-10 from wikidata Q1510378",
-   "selection_sector": "industrial_manufacturing",
-   "hq_source": "sec",
    "boards": [],
    "ashby": null,
    "greenhouse": null,
@@ -27894,8 +27200,6 @@
    },
    "tier": null,
    "notes": "Added by candidates.py on 2026-09-10 from wikidata Q825943",
-   "selection_sector": "industrial_manufacturing",
-   "hq_source": "sec",
    "boards": [],
    "ashby": null,
    "greenhouse": null,
@@ -27931,9 +27235,6 @@
    },
    "tier": null,
    "notes": "Added by candidates.py on 2026-09-10 from wikidata Q5842736",
-   "website_source": null,
-   "selection_sector": "industrial_manufacturing",
-   "hq_source": "pdl",
    "boards": [],
    "ashby": null,
    "greenhouse": null,
@@ -27971,8 +27272,6 @@
    },
    "tier": null,
    "notes": "Added by candidates.py on 2026-09-10 from wikidata Q2140315",
-   "selection_sector": "industrial_manufacturing",
-   "hq_source": "sec",
    "boards": [],
    "ashby": null,
    "greenhouse": null,
@@ -28010,8 +27309,6 @@
    },
    "tier": null,
    "notes": "Added by candidates.py on 2026-09-10 from wikidata Q790650",
-   "selection_sector": "industrial_manufacturing",
-   "hq_source": "sec",
    "boards": [],
    "ashby": null,
    "greenhouse": null,
@@ -28049,9 +27346,6 @@
    },
    "tier": null,
    "notes": "Added by candidates.py on 2026-09-10 from wikidata Q5370909",
-   "website_source": null,
-   "selection_sector": "industrial_manufacturing",
-   "hq_source": "sec",
    "boards": [],
    "ashby": null,
    "greenhouse": null,
@@ -28087,9 +27381,6 @@
    },
    "tier": null,
    "notes": "Added by candidates.py on 2026-09-10 from wikidata Q7239519",
-   "website_source": "pdl",
-   "selection_sector": "industrial_manufacturing",
-   "hq_source": "pdl",
    "boards": [],
    "ashby": null,
    "greenhouse": null,
@@ -28125,9 +27416,6 @@
    },
    "tier": null,
    "notes": "Added by candidates.py on 2026-09-10 from wikidata Q20711490",
-   "website_source": "pdl",
-   "selection_sector": "industrial_manufacturing",
-   "hq_source": "pdl",
    "boards": [],
    "ashby": null,
    "greenhouse": null,
@@ -28165,8 +27453,6 @@
    },
    "tier": null,
    "notes": "Added by candidates.py on 2026-09-10 from wikidata Q1477661",
-   "selection_sector": "industrial_manufacturing",
-   "hq_source": "sec",
    "boards": [],
    "ashby": null,
    "greenhouse": null,
@@ -28202,9 +27488,6 @@
    },
    "tier": null,
    "notes": "Added by candidates.py on 2026-09-10 from wikidata Q292292",
-   "website_source": "pdl",
-   "selection_sector": "industrial_manufacturing",
-   "hq_source": "pdl",
    "boards": [],
    "ashby": null,
    "greenhouse": null,
@@ -28240,9 +27523,6 @@
    },
    "tier": null,
    "notes": "Added by candidates.py on 2026-09-10 from wikidata Q1509038",
-   "website_source": "pdl",
-   "selection_sector": "industrial_manufacturing",
-   "hq_source": "pdl",
    "boards": [],
    "ashby": null,
    "greenhouse": null,
@@ -28278,9 +27558,6 @@
    },
    "tier": null,
    "notes": "Added by candidates.py on 2026-09-10 from wikidata Q63197674",
-   "website_source": "wikidata",
-   "selection_sector": "industrial_manufacturing",
-   "hq_source": "wikidata",
    "boards": [],
    "ashby": null,
    "greenhouse": null,
@@ -28316,9 +27593,6 @@
    },
    "tier": null,
    "notes": "Added by candidates.py on 2026-09-10 from wikidata Q38816650",
-   "website_source": "wikidata",
-   "selection_sector": "industrial_manufacturing",
-   "hq_source": "wikidata",
    "boards": [],
    "ashby": null,
    "greenhouse": null,
@@ -28354,8 +27628,6 @@
    },
    "tier": null,
    "notes": "Added by candidates.py on 2026-09-10 from wikidata Q3146975",
-   "selection_sector": "industrial_manufacturing",
-   "hq_source": "sec",
    "boards": [],
    "ashby": null,
    "greenhouse": null,
@@ -28387,7 +27659,6 @@
    "hq": null,
    "tier": null,
    "notes": "Added by candidates.py on 2026-09-10 from wikidata Q29739",
-   "selection_sector": "industrial_manufacturing",
    "boards": [],
    "ashby": null,
    "greenhouse": null,
@@ -28419,7 +27690,6 @@
    "hq": null,
    "tier": null,
    "notes": "Added by candidates.py on 2026-09-10 from wikidata Q1781308",
-   "selection_sector": "industrial_manufacturing",
    "boards": [],
    "ashby": null,
    "greenhouse": null,
@@ -28457,8 +27727,6 @@
    },
    "tier": null,
    "notes": "Added by candidates.py on 2026-09-10 from wikidata Q1969091",
-   "selection_sector": "industrial_manufacturing",
-   "hq_source": "sec",
    "boards": [],
    "ashby": null,
    "greenhouse": null,
@@ -28496,8 +27764,6 @@
    },
    "tier": null,
    "notes": "Added by candidates.py on 2026-09-10 from wikidata Q582418",
-   "selection_sector": "industrial_manufacturing",
-   "hq_source": "sec",
    "boards": [],
    "ashby": null,
    "greenhouse": null,
@@ -28535,8 +27801,6 @@
    },
    "tier": null,
    "notes": "Added by candidates.py on 2026-09-10 from wikidata Q1138291",
-   "selection_sector": "industrial_manufacturing",
-   "hq_source": "sec",
    "boards": [],
    "ashby": null,
    "greenhouse": null,
@@ -28572,9 +27836,6 @@
    },
    "tier": null,
    "notes": "Added by candidates.py on 2026-09-10 from wikidata Q1049080",
-   "website_source": "wikidata",
-   "selection_sector": "industrial_manufacturing",
-   "hq_source": "wikidata",
    "boards": [],
    "ashby": null,
    "greenhouse": null,
@@ -28610,9 +27871,6 @@
    },
    "tier": null,
    "notes": "Added by candidates.py on 2026-09-10 from wikidata Q3610112",
-   "website_source": "pdl",
-   "selection_sector": "industrial_manufacturing",
-   "hq_source": "pdl",
    "boards": [],
    "ashby": null,
    "greenhouse": null,
@@ -28650,8 +27908,6 @@
    },
    "tier": null,
    "notes": "Added by candidates.py on 2026-09-10 from wikidata Q547450",
-   "selection_sector": "industrial_manufacturing",
-   "hq_source": "sec",
    "boards": [],
    "ashby": null,
    "greenhouse": null,
@@ -28687,9 +27943,6 @@
    },
    "tier": null,
    "notes": "Added by candidates.py on 2026-09-10 from wikidata Q1322011",
-   "website_source": "pdl",
-   "selection_sector": "industrial_manufacturing",
-   "hq_source": "pdl",
    "boards": [],
    "ashby": null,
    "greenhouse": null,
@@ -28725,9 +27978,6 @@
    },
    "tier": null,
    "notes": "Added by candidates.py on 2026-09-10 from wikidata Q897097",
-   "website_source": "pdl",
-   "selection_sector": "industrial_manufacturing",
-   "hq_source": "pdl",
    "boards": [],
    "ashby": null,
    "greenhouse": null,
@@ -28763,9 +28013,6 @@
    },
    "tier": null,
    "notes": "Added by candidates.py on 2026-09-10 from wikidata Q28027517",
-   "website_source": "pdl",
-   "selection_sector": "industrial_manufacturing",
-   "hq_source": "pdl",
    "boards": [],
    "ashby": null,
    "greenhouse": null,
@@ -28801,9 +28048,6 @@
    },
    "tier": null,
    "notes": "Added by candidates.py on 2026-09-10 from wikidata Q125453716",
-   "website_source": "wikidata",
-   "selection_sector": "industrial_manufacturing",
-   "hq_source": "wikidata",
    "boards": [],
    "ashby": null,
    "greenhouse": null,
@@ -28839,9 +28083,6 @@
    },
    "tier": null,
    "notes": "Added by candidates.py on 2026-09-10 from wikidata Q1501547",
-   "website_source": "pdl",
-   "selection_sector": "industrial_manufacturing",
-   "hq_source": "pdl",
    "boards": [],
    "ashby": null,
    "greenhouse": null,
@@ -28877,9 +28118,6 @@
    },
    "tier": null,
    "notes": "Added by candidates.py on 2026-09-10 from wikidata Q5094438",
-   "website_source": "pdl",
-   "selection_sector": "industrial_manufacturing",
-   "hq_source": "pdl",
    "boards": [],
    "ashby": null,
    "greenhouse": null,
@@ -28915,9 +28153,6 @@
    },
    "tier": null,
    "notes": "Added by candidates.py on 2026-09-10 from wikidata Q1722848",
-   "website_source": null,
-   "selection_sector": "industrial_manufacturing",
-   "hq_source": "pdl",
    "boards": [],
    "ashby": null,
    "greenhouse": null,
@@ -28953,8 +28188,6 @@
    },
    "tier": null,
    "notes": "Added by candidates.py on 2026-09-10 from wikidata Q33129637",
-   "website_source": "pdl",
-   "selection_sector": "industrial_manufacturing",
    "boards": [],
    "ashby": null,
    "greenhouse": null,
@@ -28990,9 +28223,6 @@
    },
    "tier": null,
    "notes": "Added by candidates.py on 2026-09-10 from wikidata Q282997",
-   "website_source": "pdl",
-   "selection_sector": "industrial_manufacturing",
-   "hq_source": "pdl",
    "boards": [],
    "ashby": null,
    "greenhouse": null,
@@ -29024,7 +28254,6 @@
    "hq": null,
    "tier": null,
    "notes": "Added by candidates.py on 2026-09-10 from wikidata Q1550912",
-   "selection_sector": "industrial_manufacturing",
    "boards": [],
    "ashby": null,
    "greenhouse": null,
@@ -29060,9 +28289,6 @@
    },
    "tier": null,
    "notes": "Added by candidates.py on 2026-09-10 from wikidata Q885836",
-   "website_source": "pdl",
-   "selection_sector": "industrial_manufacturing",
-   "hq_source": "pdl",
    "boards": [],
    "ashby": null,
    "greenhouse": null,
@@ -29098,9 +28324,6 @@
    },
    "tier": null,
    "notes": "Added by candidates.py on 2026-09-10 from wikidata Q1030096",
-   "website_source": "wikidata",
-   "selection_sector": "industrial_manufacturing",
-   "hq_source": "wikidata",
    "boards": [],
    "ashby": null,
    "greenhouse": null,
@@ -29136,9 +28359,6 @@
    },
    "tier": null,
    "notes": "Added by candidates.py on 2026-09-10 from wikidata Q3483455",
-   "website_source": "pdl",
-   "selection_sector": "industrial_manufacturing",
-   "hq_source": "pdl",
    "boards": [],
    "ashby": null,
    "greenhouse": null,
@@ -29174,9 +28394,6 @@
    },
    "tier": null,
    "notes": "Added by candidates.py on 2026-09-10 from wikidata Q966562",
-   "website_source": "wikidata",
-   "selection_sector": "industrial_manufacturing",
-   "hq_source": "wikidata",
    "boards": [],
    "ashby": null,
    "greenhouse": null,
@@ -29214,8 +28431,6 @@
    },
    "tier": null,
    "notes": "Added by candidates.py on 2026-09-10 from wikidata Q17326957",
-   "selection_sector": "industrial_manufacturing",
-   "hq_source": "sec",
    "boards": [],
    "ashby": null,
    "greenhouse": null,
@@ -29253,8 +28468,6 @@
    },
    "tier": null,
    "notes": "Added by candidates.py on 2026-09-10 from wikidata Q18228597",
-   "selection_sector": "industrial_manufacturing",
-   "hq_source": "sec",
    "boards": [],
    "ashby": null,
    "greenhouse": null,
@@ -29290,9 +28503,6 @@
    },
    "tier": null,
    "notes": "Added by candidates.py on 2026-09-10 from wikidata Q109256454",
-   "website_source": "pdl",
-   "selection_sector": "industrial_manufacturing",
-   "hq_source": "pdl",
    "boards": [],
    "ashby": null,
    "greenhouse": null,
@@ -29328,9 +28538,6 @@
    },
    "tier": null,
    "notes": "Added by candidates.py on 2026-09-10 from wikidata Q139935292",
-   "website_source": "pdl",
-   "selection_sector": "industrial_manufacturing",
-   "hq_source": "pdl",
    "boards": [],
    "ashby": null,
    "greenhouse": null,
@@ -29366,9 +28573,6 @@
    },
    "tier": null,
    "notes": "Added by candidates.py on 2026-09-10 from wikidata Q48815838",
-   "website_source": "pdl",
-   "selection_sector": "industrial_manufacturing",
-   "hq_source": "pdl",
    "boards": [],
    "ashby": null,
    "greenhouse": null,
@@ -29404,9 +28608,6 @@
    },
    "tier": null,
    "notes": "Added by candidates.py on 2026-09-10 from wikidata Q1370660",
-   "website_source": "wikidata",
-   "selection_sector": "industrial_manufacturing",
-   "hq_source": "wikidata",
    "boards": [],
    "ashby": null,
    "greenhouse": null,
@@ -29442,9 +28643,6 @@
    },
    "tier": null,
    "notes": "Added by candidates.py on 2026-09-10 from wikidata Q21562062",
-   "website_source": "pdl",
-   "selection_sector": "industrial_manufacturing",
-   "hq_source": "pdl",
    "boards": [],
    "ashby": null,
    "greenhouse": null,
@@ -29480,9 +28678,6 @@
    },
    "tier": null,
    "notes": "Added by candidates.py on 2026-09-10 from wikidata Q139590776",
-   "website_source": "wikidata",
-   "selection_sector": "industrial_manufacturing",
-   "hq_source": "wikidata",
    "boards": [],
    "ashby": null,
    "greenhouse": null,
@@ -29518,9 +28713,6 @@
    },
    "tier": null,
    "notes": "Added by candidates.py on 2026-09-10 from wikidata Q564376",
-   "website_source": "pdl",
-   "selection_sector": "industrial_manufacturing",
-   "hq_source": "pdl",
    "boards": [],
    "ashby": null,
    "greenhouse": null,
@@ -29556,9 +28748,6 @@
    },
    "tier": null,
    "notes": "Added by candidates.py on 2026-09-10 from wikidata Q1939632",
-   "website_source": "pdl",
-   "selection_sector": "industrial_manufacturing",
-   "hq_source": "pdl",
    "boards": [],
    "ashby": null,
    "greenhouse": null,
@@ -29594,9 +28783,6 @@
    },
    "tier": null,
    "notes": "Added by candidates.py on 2026-09-10 from wikidata Q6696248",
-   "website_source": "pdl",
-   "selection_sector": "industrial_manufacturing",
-   "hq_source": "pdl",
    "boards": [],
    "ashby": null,
    "greenhouse": null,
@@ -29632,9 +28818,6 @@
    },
    "tier": null,
    "notes": "Added by candidates.py on 2026-09-10 from wikidata Q124658451",
-   "website_source": "wikidata",
-   "selection_sector": "industrial_manufacturing",
-   "hq_source": "wikidata",
    "boards": [],
    "ashby": null,
    "greenhouse": null,
@@ -29670,9 +28853,6 @@
    },
    "tier": null,
    "notes": "Added by candidates.py on 2026-09-10 from wikidata Q89038817",
-   "website_source": null,
-   "selection_sector": "industrial_manufacturing",
-   "hq_source": "pdl",
    "boards": [],
    "ashby": null,
    "greenhouse": null,
@@ -29710,9 +28890,6 @@
    },
    "tier": null,
    "notes": "Added by candidates.py on 2026-09-10 from wikidata Q1152374",
-   "website_source": "linked",
-   "selection_sector": "industrial_manufacturing",
-   "hq_source": "sec",
    "boards": [],
    "ashby": null,
    "greenhouse": null,
@@ -29748,9 +28925,6 @@
    },
    "tier": null,
    "notes": "Added by candidates.py on 2026-09-10 from wikidata Q30265399",
-   "website_source": "wikidata",
-   "selection_sector": "industrial_manufacturing",
-   "hq_source": "wikidata",
    "boards": [],
    "ashby": null,
    "greenhouse": null,
@@ -29786,9 +28960,6 @@
    },
    "tier": null,
    "notes": "Added by candidates.py on 2026-09-10 from wikidata Q5105652",
-   "website_source": "wikidata",
-   "selection_sector": "industrial_manufacturing",
-   "hq_source": "wikidata",
    "boards": [],
    "ashby": null,
    "greenhouse": null,
@@ -29824,9 +28995,6 @@
    },
    "tier": null,
    "notes": "Added by candidates.py on 2026-09-10 from wikidata Q4500864",
-   "selection_sector": "industrial_manufacturing",
-   "website_source": null,
-   "hq_source": "pdl",
    "boards": [],
    "ashby": null,
    "greenhouse": null,
@@ -29862,9 +29030,6 @@
    },
    "tier": null,
    "notes": "Added by candidates.py on 2026-09-10 from wikidata Q725634",
-   "website_source": "pdl",
-   "selection_sector": "industrial_manufacturing",
-   "hq_source": "pdl",
    "boards": [],
    "ashby": null,
    "greenhouse": null,
@@ -29900,9 +29065,6 @@
    },
    "tier": null,
    "notes": "Added by candidates.py on 2026-09-10 from wikidata Q746256",
-   "website_source": "wikidata",
-   "selection_sector": "industrial_manufacturing",
-   "hq_source": "wikidata",
    "boards": [],
    "ashby": null,
    "greenhouse": null,
@@ -29940,9 +29102,6 @@
    },
    "tier": null,
    "notes": "Added by candidates.py on 2026-09-10 from wikidata Q771865",
-   "website_source": "pdl",
-   "selection_sector": "industrial_manufacturing",
-   "hq_source": "pdl",
    "boards": [],
    "ashby": null,
    "greenhouse": null,
@@ -29978,9 +29137,6 @@
    },
    "tier": null,
    "notes": "Added by candidates.py on 2026-09-10 from wikidata Q381498",
-   "website_source": "pdl",
-   "selection_sector": "industrial_manufacturing",
-   "hq_source": "pdl",
    "boards": [],
    "ashby": null,
    "greenhouse": null,
@@ -30016,9 +29172,6 @@
    },
    "tier": null,
    "notes": "Added by candidates.py on 2026-09-10 from wikidata Q238765",
-   "website_source": "wikidata",
-   "selection_sector": "industrial_manufacturing",
-   "hq_source": "wikidata",
    "boards": [],
    "ashby": null,
    "greenhouse": null,
@@ -30054,9 +29207,6 @@
    },
    "tier": null,
    "notes": "Added by candidates.py on 2026-09-10 from wikidata Q797609",
-   "selection_sector": "industrial_manufacturing",
-   "website_source": null,
-   "hq_source": "pdl",
    "boards": [],
    "ashby": null,
    "greenhouse": null,
@@ -30092,9 +29242,6 @@
    },
    "tier": null,
    "notes": "Added by candidates.py on 2026-09-10 from wikidata Q796197",
-   "website_source": "pdl",
-   "selection_sector": "industrial_manufacturing",
-   "hq_source": "pdl",
    "boards": [],
    "ashby": null,
    "greenhouse": null,
@@ -30130,9 +29277,6 @@
    },
    "tier": null,
    "notes": "Added by candidates.py on 2026-09-10 from wikidata Q304444",
-   "website_source": "wikidata",
-   "selection_sector": "industrial_manufacturing",
-   "hq_source": "wikidata",
    "boards": [],
    "ashby": null,
    "greenhouse": null,
@@ -30170,8 +29314,6 @@
    },
    "tier": null,
    "notes": "Added by candidates.py on 2026-09-10 from wikidata Q637474",
-   "selection_sector": "industrial_manufacturing",
-   "hq_source": "sec",
    "boards": [],
    "ashby": null,
    "greenhouse": null,
@@ -30207,9 +29349,6 @@
    },
    "tier": null,
    "notes": "Added by candidates.py on 2026-09-10 from wikidata Q48822",
-   "website_source": "pdl",
-   "selection_sector": "industrial_manufacturing",
-   "hq_source": "pdl",
    "boards": [],
    "ashby": null,
    "greenhouse": null,
@@ -30247,9 +29386,6 @@
    },
    "tier": null,
    "notes": "Added by candidates.py on 2026-09-10 from wikidata Q48881",
-   "website_source": "pdl",
-   "selection_sector": "industrial_manufacturing",
-   "hq_source": "pdl",
    "boards": [],
    "ashby": null,
    "greenhouse": null,
@@ -30287,8 +29423,6 @@
    },
    "tier": null,
    "notes": "Added by candidates.py on 2026-09-10 from wikidata Q48754",
-   "selection_sector": "industrial_manufacturing",
-   "hq_source": "sec",
    "boards": [],
    "ashby": null,
    "greenhouse": null,
@@ -30326,8 +29460,6 @@
    },
    "tier": null,
    "notes": "Added by candidates.py on 2026-09-10 from wikidata Q919300",
-   "selection_sector": "industrial_manufacturing",
-   "hq_source": "sec",
    "boards": [],
    "ashby": null,
    "greenhouse": null,
@@ -30363,9 +29495,6 @@
    },
    "tier": null,
    "notes": "Added by candidates.py on 2026-09-10 from wikidata Q181114",
-   "website_source": "wikidata",
-   "selection_sector": "industrial_manufacturing",
-   "hq_source": "wikidata",
    "boards": [],
    "ashby": null,
    "greenhouse": null,
@@ -30401,9 +29530,6 @@
    },
    "tier": null,
    "notes": "Added by candidates.py on 2026-09-10 from wikidata Q295481",
-   "website_source": "pdl",
-   "selection_sector": "industrial_manufacturing",
-   "hq_source": "pdl",
    "boards": [],
    "ashby": null,
    "greenhouse": null,
@@ -30441,8 +29567,6 @@
    },
    "tier": null,
    "notes": "Added by candidates.py on 2026-09-10 from wikidata Q173476",
-   "selection_sector": "industrial_manufacturing",
-   "hq_source": "sec",
    "boards": [],
    "ashby": null,
    "greenhouse": null,
@@ -30478,9 +29602,6 @@
    },
    "tier": null,
    "notes": "Added by candidates.py on 2026-09-10 from wikidata Q180106",
-   "website_source": "wikidata",
-   "selection_sector": "industrial_manufacturing",
-   "hq_source": "wikidata",
    "boards": [],
    "ashby": null,
    "greenhouse": null,
@@ -30518,8 +29639,6 @@
    },
    "tier": null,
    "notes": "Added by candidates.py on 2026-09-10 from wikidata Q127074",
-   "selection_sector": "industrial_manufacturing",
-   "hq_source": "sec",
    "boards": [],
    "ashby": null,
    "greenhouse": null,
@@ -30555,9 +29674,6 @@
    },
    "tier": null,
    "notes": "Added by candidates.py on 2026-09-10 from wikidata Q847270",
-   "website_source": "wikidata",
-   "selection_sector": "industrial_manufacturing",
-   "hq_source": "wikidata",
    "boards": [],
    "ashby": null,
    "greenhouse": null,
@@ -30593,8 +29709,6 @@
    },
    "tier": null,
    "notes": "Added by candidates.py on 2026-09-10 from wikidata Q834077",
-   "website_source": "pdl",
-   "selection_sector": "industrial_manufacturing",
    "boards": [],
    "ashby": null,
    "greenhouse": null,
@@ -30630,9 +29744,6 @@
    },
    "tier": null,
    "notes": "Added by candidates.py on 2026-09-10 from wikidata Q1129847",
-   "website_source": "pdl",
-   "selection_sector": "industrial_manufacturing",
-   "hq_source": "pdl",
    "boards": [],
    "ashby": null,
    "greenhouse": null,
@@ -30664,7 +29775,6 @@
    "hq": null,
    "tier": null,
    "notes": "Added by candidates.py on 2026-09-10 from wikidata Q1128715",
-   "selection_sector": "industrial_manufacturing",
    "boards": [],
    "ashby": null,
    "greenhouse": null,
@@ -30702,8 +29812,6 @@
    },
    "tier": null,
    "notes": "Added by candidates.py on 2026-09-10 from wikidata Q469553",
-   "selection_sector": "industrial_manufacturing",
-   "hq_source": "sec",
    "boards": [],
    "ashby": null,
    "greenhouse": null,
@@ -30739,9 +29847,6 @@
    },
    "tier": null,
    "notes": "Added by candidates.py on 2026-09-10 from wikidata Q1091034",
-   "website_source": "pdl",
-   "selection_sector": "industrial_manufacturing",
-   "hq_source": "pdl",
    "boards": [],
    "ashby": null,
    "greenhouse": null,
@@ -30777,9 +29882,6 @@
    },
    "tier": null,
    "notes": "Added by candidates.py on 2026-09-10 from wikidata Q27564",
-   "website_source": "wikidata",
-   "selection_sector": "industrial_manufacturing",
-   "hq_source": "wikidata",
    "boards": [],
    "ashby": null,
    "greenhouse": null,
@@ -30815,9 +29917,6 @@
    },
    "tier": null,
    "notes": "Added by candidates.py on 2026-09-10 from wikidata Q30113",
-   "website_source": "pdl",
-   "selection_sector": "industrial_manufacturing",
-   "hq_source": "pdl",
    "boards": [],
    "ashby": null,
    "greenhouse": null,
@@ -30855,8 +29954,6 @@
    },
    "tier": null,
    "notes": "Added by candidates.py on 2026-09-10 from wikidata Q899022",
-   "selection_sector": "industrial_manufacturing",
-   "hq_source": "sec",
    "boards": [],
    "ashby": null,
    "greenhouse": null,
