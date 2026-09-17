@@ -6,4 +6,4 @@ Files:
 - `registry.json`: the published registry (schema version 3). `_meta.registry_version` is a monotonic integer; installs apply a download only when it is newer than their copy and the checksum matches.
 - `registry.json.sha256`: SHA-256 of `registry.json`.
 
-Maintained from the Prospector repo's registry scripts. Data license: to be set.
+Maintained from the Prospector repo's registry scripts. Data license: Open Database License (ODbL) v1.0, see LICENSE; credit "Prospector registry, github.com/clone2002/prospector-registry" and share adapted databases under the same terms.

@@ -1,0 +1,16 @@
+Open Database License (ODbL) v1.0
+
+The Prospector registry (registry.json and registry.json.sha256 in this
+repository) is made available under the Open Database License:
+https://opendatacommons.org/licenses/odbl/1-0/
+
+Any rights in individual contents of the database are licensed under the
+Database Contents License: https://opendatacommons.org/licenses/dbcl/1-0/
+
+In short: you are free to share, create from, and adapt this database, as
+long as you attribute it (credit "Prospector registry,
+github.com/clone2002/prospector-registry"), share any adapted database
+under the same terms, and keep it open (no technical measures that restrict
+the work). The license texts at the links above are the binding terms.
+
+Applied 2026-09-16.
