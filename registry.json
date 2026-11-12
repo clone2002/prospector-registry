@@ -1,7 +1,7 @@
 {
  "_meta": {
   "schema_version": 3,
-  "registry_version": 59,
+  "registry_version": 60,
   "published_at": "2026-11-11",
   "description": "Prospector's shared ATS registry: companies, their job boards, and industry tags. Company facts only. See README.",
   "attribution": [
@@ -31,7 +31,14 @@
    "taleo_business_edition": "normal",
    "careers_page": "normal"
   },
-  "signature": null
+  "signature": null,
+  "icons": {
+   "file": "icons.json",
+   "version": 1,
+   "sha256": "f664795deb09595141f595960d7d19262f540a1b46c68f79fb1d0e36b45fd08e",
+   "count": 1354,
+   "bytes": 2058407
+  }
  },
  "taxonomy": {
   "version": 1,
@@ -379,11 +386,32 @@
    "evidence": "the plain read answered 200 with a captcha verification page, about 230 characters"
   },
   {
+   "host": "clearancejobs.com",
+   "name": "ClearanceJobs",
+   "kind": "try",
+   "since": "2026-10-10",
+   "evidence": "the listing page read in full, about 6,500 characters; the one posting read had closed (404)"
+  },
+  {
+   "host": "dailyremote.com",
+   "name": "DailyRemote",
+   "kind": "try",
+   "since": "2026-10-10",
+   "evidence": "two postings read had expired (410); the site did not turn the reader away"
+  },
+  {
    "host": "dice.com",
    "name": "Dice",
    "kind": "try",
    "since": "2026-09-29",
    "evidence": "the plain read returned the full posting, about 6,800 characters"
+  },
+  {
+   "host": "dynamitejobs.com",
+   "name": "Dynamite Jobs",
+   "kind": "try",
+   "since": "2026-10-10",
+   "evidence": "the plain read returned the full posting, about 6,400 characters"
   },
   {
    "host": "flexjobs.com",
@@ -421,6 +449,13 @@
    "evidence": "robots.txt disallows the posting pages to a generic reader (/viewjob/, read 2026-10-14); hiring.cafe answers 308 to this host (open-work registry line (j); thread 119's data fixes)"
   },
   {
+   "host": "idealist.org",
+   "name": "Idealist",
+   "kind": "try",
+   "since": "2026-10-10",
+   "evidence": "the plain read returned the full posting, about 5,300 characters"
+  },
+  {
    "host": "indeed.com",
    "name": "Indeed",
    "kind": "refuse",
@@ -428,11 +463,25 @@
    "evidence": "the plain read answered 401 with a login redirect"
   },
   {
+   "host": "jobcase.com",
+   "name": "Jobcase",
+   "kind": "refuse",
+   "since": "2026-10-10",
+   "evidence": "the plain read of a listing page answered 403 with a Cloudflare challenge page; on 2026-11-10 a posting's plain read answered 403 again and the app's hidden-window read failed too"
+  },
+  {
    "host": "jobright.ai",
    "name": "Jobright",
    "kind": "try",
    "since": "2026-09-29",
    "evidence": "the plain read returned duties and requirements in Jobright's own summarized layout, about 5,000 characters"
+  },
+  {
+   "host": "jobspresso.co",
+   "name": "Jobspresso",
+   "kind": "try",
+   "since": "2026-10-10",
+   "evidence": "the plain read returned the full posting, about 5,700 characters"
   },
   {
    "host": "joinhandshake.com",
@@ -477,11 +526,46 @@
    "evidence": "the plain read answered 403 with no posting text"
   },
   {
+   "host": "news.ycombinator.com",
+   "name": "Hacker News",
+   "kind": "try",
+   "since": "2026-10-10",
+   "evidence": "the plain read returned the full comment, about 5,400 characters with its replies"
+  },
+  {
+   "host": "nexxt.com",
+   "name": "Nexxt",
+   "kind": "try",
+   "since": "2026-10-10",
+   "evidence": "the plain read returned the full posting, about 7,100 characters"
+  },
+  {
+   "host": "remote.co",
+   "name": "Remote.co",
+   "kind": "refuse",
+   "since": "2026-10-10",
+   "evidence": "robots.txt could not be read: the connection was reset after the request, twice; on 2026-11-10 it timed out three times"
+  },
+  {
    "host": "remoteok.com",
    "name": "Remote OK",
    "kind": "try",
    "since": "2026-09-29",
    "evidence": "the plain read returned the full posting; about 16,300 characters of text, mostly site menus"
+  },
+  {
+   "host": "remoterocketship.com",
+   "name": "Remote Rocketship",
+   "kind": "try",
+   "since": "2026-10-10",
+   "evidence": "one posting read hung until its 20-second timeout; a closed one answered 404"
+  },
+  {
+   "host": "remotive.com",
+   "name": "Remotive",
+   "kind": "try",
+   "since": "2026-10-10",
+   "evidence": "the plain read returned the full posting, about 2,200 characters"
   },
   {
    "host": "simplyhired.com",
@@ -503,6 +587,13 @@
    "kind": "try",
    "since": "2026-09-29",
    "evidence": "the plain read returned the full posting, about 10,700 characters"
+  },
+  {
+   "host": "themuse.com",
+   "name": "The Muse",
+   "kind": "try",
+   "since": "2026-10-10",
+   "evidence": "the plain read returned the full posting, about 12,600 characters"
   },
   {
    "host": "therevopsreport.com",
@@ -531,6 +622,20 @@
    "kind": "refuse",
    "since": "2026-09-29",
    "evidence": "the plain read answered 403 with no posting text"
+  },
+  {
+   "host": "workingnomads.com",
+   "name": "Working Nomads",
+   "kind": "try",
+   "since": "2026-10-10",
+   "evidence": "the plain read returned the full posting; about 15,800 characters of text, mostly site menus"
+  },
+  {
+   "host": "ycombinator.com",
+   "name": "Y Combinator",
+   "kind": "try",
+   "since": "2026-10-10",
+   "evidence": "the plain read returned the full posting, about 7,000 characters"
   },
   {
    "host": "ziprecruiter.com",
@@ -58180,9 +58285,10 @@
   },
   {
    "id": "plains-all-american-pipeline",
-   "name": "Plains ALL American Pipeline",
+   "name": "Plains All American Pipeline",
    "aliases": [
-    "PLAINS ALL AMERICAN PIPELINE LP"
+    "PLAINS ALL AMERICAN PIPELINE LP",
+    "Plains ALL American Pipeline"
    ],
    "website": "plains.com",
    "careers_url": "https://www.plains.com/careers",
@@ -78080,9 +78186,10 @@
   },
   {
    "id": "westinghouse-air-brake-technologies",
-   "name": "Westinghouse AIR Brake Technologies",
+   "name": "Westinghouse Air Brake Technologies",
    "aliases": [
-    "WESTINGHOUSE AIR BRAKE TECHNOLOGIES CORP"
+    "WESTINGHOUSE AIR BRAKE TECHNOLOGIES CORP",
+    "Westinghouse AIR Brake Technologies"
    ],
    "website": "https://www.wabteccorp.com/",
    "careers_url": "https://careers.wabtec.com/jobs",
@@ -83438,9 +83545,10 @@
   },
   {
    "id": "old-national-bancorp",
-   "name": "OLD National Bancorp",
+   "name": "Old National Bancorp",
    "aliases": [
-    "OLD NATIONAL BANCORP /IN/"
+    "OLD NATIONAL BANCORP /IN/",
+    "OLD National Bancorp"
    ],
    "website": "https://www.oldnational.com/",
    "careers_url": "https://www.oldnational.com/about-us/careers/",
@@ -102640,9 +102748,10 @@
   },
   {
    "id": "harley-davidson",
-   "name": "Harley-davidson",
+   "name": "Harley-Davidson",
    "aliases": [
-    "HARLEY-DAVIDSON, INC."
+    "HARLEY-DAVIDSON, INC.",
+    "Harley-davidson"
    ],
    "website": "harley-davidson.com",
    "careers_url": "https://jobs.harley-davidson.com/",
@@ -110318,9 +110427,10 @@
   },
   {
    "id": "scotts-miracle-gro",
-   "name": "Scotts Miracle-gro",
+   "name": "Scotts Miracle-Gro",
    "aliases": [
-    "SCOTTS MIRACLE-GRO CO"
+    "SCOTTS MIRACLE-GRO CO",
+    "Scotts Miracle-gro"
    ],
    "website": "scottsmiraclegro.com",
    "careers_url": "https://scottsmiraclegro.wd5.myworkdayjobs.com/SMGExternal",
@@ -119494,9 +119604,10 @@
   },
   {
    "id": "louisiana-pacific",
-   "name": "Louisiana-pacific",
+   "name": "Louisiana-Pacific",
    "aliases": [
-    "LOUISIANA-PACIFIC CORP"
+    "LOUISIANA-PACIFIC CORP",
+    "Louisiana-pacific"
    ],
    "website": "lpcorp.com",
    "careers_url": "https://jobs.lpcorp.com/search?searchResultView=LIST",
