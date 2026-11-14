@@ -15,7 +15,9 @@ the work). The license texts at the links above are the binding terms.
 
 icons.json in this repository is not part of the Prospector registry and is
 outside this license: each icon in it is the mark of the company its id
-names, read from that company's own website and included only to identify
-the company, and each mark belongs to its owner.
+names, read from that company's own website or, where the site gives none,
+from the company's BIMI record, Hunter's free Logo API (https://hunter.io),
+or Google's favicon service, and included only to identify the company;
+each mark belongs to its owner.
 
 Applied 2026-09-16.
